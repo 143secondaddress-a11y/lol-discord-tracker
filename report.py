@@ -191,15 +191,16 @@ def post_report(
     embeds = []
 
     # ── Embed 1: サマリー ──
-    avg_cs  = round(sum(r["cs_per_min"]    for r in records) / total, 1)
-    avg_dmg = round(sum(r["damage_share"]  for r in records) / total, 1)
-    avg_eff = round(sum(r["gold_efficiency"] for r in records) / total)
+    avg_cs      = round(sum(r["cs_per_min"]      for r in records) / total, 1)
+    avg_dmg     = round(sum(r["damage_share"]    for r in records) / total, 1)
+    avg_dpm     = round(sum(r.get("damage_per_min", 0) for r in records) / total)
+    avg_eff     = round(sum(r["gold_efficiency"] for r in records) / total)
 
     summary_lines = [
         f"**{total}試合**　{wins}勝{total - wins}敗　勝率 **{wr}%**",
         f"期間: {dates[0]} 〜 {dates[-1]}",
         "",
-        f"平均 CS/分: `{avg_cs}`　平均ダメージシェア: `{avg_dmg}%`　平均ゴールド効率: `{avg_eff:,}`",
+        f"平均 CS/分: `{avg_cs}`　平均ダメージシェア: `{avg_dmg}%`（`{avg_dpm:,}` /分）　平均ゴールド効率: `{avg_eff:,}`",
     ]
 
     role_suffix = f"　{lane_label}" if lane != "ALL" else ""
@@ -211,8 +212,9 @@ def post_report(
 
     # ── Embed 2: マッチアップ ──
     if matchups:
-        favorable   = sorted(matchups.items(), key=lambda x: (-x[1]["win_rate"], -x[1]["games"]))
-        unfavorable = sorted(matchups.items(), key=lambda x:  (x[1]["win_rate"], -x[1]["games"]))
+        # 試合数の多い順 → 同数なら勝率で並べる
+        favorable   = sorted(matchups.items(), key=lambda x: (-x[1]["games"], -x[1]["win_rate"]))
+        unfavorable = sorted(matchups.items(), key=lambda x: (-x[1]["games"],  x[1]["win_rate"]))
 
         top_favor   = [item for item in favorable   if item[1]["win_rate"] >= 60][:5]
         top_unfavor = [item for item in unfavorable if item[1]["win_rate"] <= 40][:5]

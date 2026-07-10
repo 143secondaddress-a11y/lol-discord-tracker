@@ -476,6 +476,7 @@ def save_match_record(
         "gd15":            gd15,
         "csd15":           csd15,
         "game_duration_min": stats["game_sec"] // 60,
+        "damage_per_min":  round(stats["damage_dealt"] / max(stats["game_sec"] / 60, 1)),
         "solo_kills":      0,
         "first_blood":     stats["first_blood_kill"],
         "deaths_detail":   deaths_detail,

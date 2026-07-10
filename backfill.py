@@ -193,6 +193,7 @@ def extract_and_save(match: dict, timeline: dict, puuid: str):
         "gd15":            gd15,
         "csd15":           csd15,
         "game_duration_min": game_sec // 60,
+        "damage_per_min":  round(my_damage / max(game_sec / 60, 1)),
         "solo_kills":      solo_kills,
         "first_blood":     me.get("firstBloodKill", False),
         "deaths_detail":   deaths_detail,
