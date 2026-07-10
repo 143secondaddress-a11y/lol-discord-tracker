@@ -2,6 +2,7 @@
   {
     "match_id": "JP1_591519143",
     "date": "2026-07-06T22:02:16.300000+09:00",
+    "lane": "MIDDLE",
     "champion": "Xerath",
     "opponent": "Viktor",
     "win": false,
@@ -53,6 +54,7 @@
   {
     "match_id": "JP1_590128566",
     "date": "2026-06-28T00:52:43.568000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Ashe",
     "win": true,
@@ -128,6 +130,7 @@
   {
     "match_id": "JP1_590119093",
     "date": "2026-06-28T00:06:15.074000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Kaisa",
     "win": true,
@@ -205,6 +208,7 @@
   {
     "match_id": "JP1_590107355",
     "date": "2026-06-27T23:30:24.240000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "MissFortune",
     "win": true,
