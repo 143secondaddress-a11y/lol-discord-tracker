@@ -7,6 +7,10 @@ on:
         description: "取得する試合数（最大200）"
         required: false
         default: "100"
+      overwrite:
+        description: "既存データも上書きして lane 情報を更新する（yes と入力）"
+        required: false
+        default: ""
 
 jobs:
   backfill:
@@ -32,7 +36,12 @@ jobs:
           RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
           GAME_NAME:    ${{ secrets.GAME_NAME }}
           TAG_LINE:     ${{ secrets.TAG_LINE }}
-        run: python backfill.py --count ${{ github.event.inputs.count }}
+        run: |
+          OVERWRITE_FLAG=""
+          if [ "${{ github.event.inputs.overwrite }}" = "yes" ]; then
+            OVERWRITE_FLAG="--overwrite"
+          fi
+          python backfill.py --count ${{ github.event.inputs.count }} $OVERWRITE_FLAG
 
       - name: Save stats
         run: |

@@ -174,15 +174,13 @@ def extract_and_save(match: dict, timeline: dict, puuid: str):
     queue_key = QUEUE_FILE_MAP.get(info["queueId"], "normal")
     records   = load_stats(queue_key)
 
-    match_id = match["metadata"]["matchId"]
-    if any(r["match_id"] == match_id for r in records):
-        return  # 重複スキップ
-
+    match_id    = match["metadata"]["matchId"]
     game_end_ts = info.get("gameEndTimestamp", info.get("gameCreation", 0))
 
-    records.append({
+    new_record = {
         "match_id":        match_id,
         "date":            datetime.fromtimestamp(game_end_ts / 1000, tz=JST).isoformat(),
+        "lane":            me.get("teamPosition", "UNKNOWN"),
         "champion":        me["championName"],
         "opponent":        opponent["championName"] if opponent else "不明",
         "win":             me["win"],
@@ -198,7 +196,14 @@ def extract_and_save(match: dict, timeline: dict, puuid: str):
         "solo_kills":      solo_kills,
         "first_blood":     me.get("firstBloodKill", False),
         "deaths_detail":   deaths_detail,
-    })
+    }
+
+    # 既存レコードを上書き or 新規追加
+    existing_idx = next((i for i, r in enumerate(records) if r["match_id"] == match_id), None)
+    if existing_idx is not None:
+        records[existing_idx] = new_record
+    else:
+        records.append(new_record)
 
     save_stats(queue_key, records)
 
@@ -206,7 +211,8 @@ def extract_and_save(match: dict, timeline: dict, puuid: str):
 # ── メイン ────────────────────────────────────────────
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--count", type=int, default=100, help="取得する試合数（最大200）")
+    parser.add_argument("--count",     type=int,  default=100,   help="取得する試合数（最大200）")
+    parser.add_argument("--overwrite", action="store_true",      help="既存データも上書きして再取得する")
     args = parser.parse_args()
 
     total   = min(args.count, 200)
@@ -235,7 +241,8 @@ def main():
 
             queue_key = QUEUE_FILE_MAP.get(match["info"]["queueId"], "normal")
             records   = load_stats(queue_key)
-            if any(r["match_id"] == match_id for r in records):
+            existing = any(r["match_id"] == match_id for r in records)
+            if existing and not args.overwrite:
                 skipped += 1
                 print(f"[{i}/{len(all_ids)}] スキップ（保存済み）: {match_id}")
                 continue

@@ -463,6 +463,7 @@ def save_match_record(
     record = {
         "match_id":        stats["game_id"],
         "date":            datetime.fromtimestamp(stats["game_end_ts"] / 1000, tz=JST).isoformat(),
+        "lane":            stats["lane"],
         "champion":        stats["champion"],
         "opponent":        stats["opponent"],
         "win":             stats["win"],
@@ -475,7 +476,7 @@ def save_match_record(
         "gd15":            gd15,
         "csd15":           csd15,
         "game_duration_min": stats["game_sec"] // 60,
-        "solo_kills":      0,   # caller が上書きする
+        "solo_kills":      0,
         "first_blood":     stats["first_blood_kill"],
         "deaths_detail":   deaths_detail,
     }

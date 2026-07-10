@@ -22,6 +22,18 @@ on:
         description: "集計期間（日）"
         required: false
         default: "30"
+      lane:
+        description: "ロール絞り込み"
+        required: false
+        default: "ALL"
+        type: choice
+        options:
+          - ALL
+          - BOTTOM
+          - UTILITY
+          - MIDDLE
+          - TOP
+          - JUNGLE
       min_games:
         description: "マッチアップ最低試合数"
         required: false
@@ -64,5 +76,6 @@ jobs:
         run: >
           python report.py
           --queue ${{ github.event.inputs.queue }}
+          --lane  ${{ github.event.inputs.lane }}
           --days ${{ github.event.inputs.days }}
           --min-games ${{ github.event.inputs.min_games }}

@@ -44,9 +44,18 @@ QUEUE_KEYS_MAP = {
 
 CAUSE_ORDER = ["ガンク", "レーンキル", "集団戦", "その他"]
 
+LANE_LABELS = {
+    "TOP":     "トップ",
+    "JUNGLE":  "ジャングル",
+    "MIDDLE":  "ミッド",
+    "BOTTOM":  "ボットレーン（ADC）",
+    "UTILITY": "サポート",
+    "ALL":     "全ロール",
+}
+
 
 # ── データ読み込み ─────────────────────────────────────
-def load_records(queue: str, days: int) -> list[dict]:
+def load_records(queue: str, days: int, lane: str = "ALL") -> list[dict]:
     cutoff = datetime.now(tz=JST) - timedelta(days=days)
     keys   = QUEUE_KEYS_MAP.get(queue, [queue])
 
@@ -59,6 +68,9 @@ def load_records(queue: str, days: int) -> list[dict]:
             dt = datetime.fromisoformat(r["date"])
             if dt >= cutoff:
                 records.append(r)
+
+    if lane != "ALL":
+        records = [r for r in records if r.get("lane", "UNKNOWN") == lane]
 
     return sorted(records, key=lambda r: r["date"])
 
@@ -158,6 +170,7 @@ def matchup_line(opp: str, d: dict) -> str:
 # ── Discord 投稿 ──────────────────────────────────────
 def post_report(
     queue: str,
+    lane: str,
     records: list[dict],
     matchups: dict,
     deaths: dict,
@@ -168,7 +181,8 @@ def post_report(
         print("[Report] データなし")
         return
 
-    label  = QUEUE_LABELS.get(queue, queue)
+    label      = QUEUE_LABELS.get(queue, queue)
+    lane_label = LANE_LABELS.get(lane, lane)
     total  = len(records)
     wins   = sum(int(r["win"]) for r in records)
     wr     = round(wins / total * 100)
@@ -187,8 +201,9 @@ def post_report(
         f"平均 CS/分: `{avg_cs}`　平均ダメージシェア: `{avg_dmg}%`　平均ゴールド効率: `{avg_eff:,}`",
     ]
 
+    role_suffix = f"　{lane_label}" if lane != "ALL" else ""
     embeds.append({
-        "title":       f"📈 {label} 分析レポート（直近 {days} 日）",
+        "title":       f"📈 {label} 分析レポート（直近 {days} 日{role_suffix}）",
         "description": "\n".join(summary_lines),
         "color":       0x5865F2,
     })
@@ -250,17 +265,19 @@ def main():
     parser = argparse.ArgumentParser(description="LoL Match Report Generator")
     parser.add_argument("--queue",     default="ranked_solo",
                         choices=["ranked_solo", "ranked_flex", "ranked", "normal", "all"])
+    parser.add_argument("--lane",      default="ALL",
+                        choices=["ALL", "TOP", "JUNGLE", "MIDDLE", "BOTTOM", "UTILITY"])
     parser.add_argument("--days",      type=int, default=30)
     parser.add_argument("--min-games", type=int, default=3)
     args = parser.parse_args()
 
     print(f"[Report] 集計: {args.queue} / 直近{args.days}日 / マッチアップ最低{args.min_games}試合")
 
-    records  = load_records(args.queue, args.days)
+    records  = load_records(args.queue, args.days, args.lane)
     matchups = analyze_matchups(records, args.min_games)
     deaths   = analyze_deaths(records)
 
-    post_report(args.queue, records, matchups, deaths, args.days, args.min_games)
+    post_report(args.queue, args.lane, records, matchups, deaths, args.days, args.min_games)
 
 
 if __name__ == "__main__":
