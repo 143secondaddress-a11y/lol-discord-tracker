@@ -1,0 +1,43 @@
+name: LoL Backfill (過去データ取得)
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "取得する試合数（最大200）"
+        required: false
+        default: "100"
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run backfill
+        env:
+          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+          GAME_NAME:    ${{ secrets.GAME_NAME }}
+          TAG_LINE:     ${{ secrets.TAG_LINE }}
+        run: python backfill.py --count ${{ github.event.inputs.count }}
+
+      - name: Save stats
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --cached --quiet || git commit -m "chore: backfill match data [skip ci]"
+          git push
