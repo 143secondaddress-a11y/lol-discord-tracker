@@ -32,9 +32,9 @@ QUEUE_FILE_MAP = {
     440: "ranked_flex",
     400: "normal",
     430: "normal",
-    900: "normal",
-    450: "normal",
-    0:   "normal",
+    900: "normal",   # URF
+    450: "aram",     # ARAM（集計から除外）
+    0:   "normal",   # カスタム
 }
 
 POSITION_ORDER = ["TOP", "JUNGLE", "MIDDLE", "BOTTOM", "UTILITY"]

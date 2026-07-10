@@ -31,7 +31,7 @@ QUEUE_FILE_MAP = {
     400: "normal",
     430: "normal",
     900: "normal",   # URF
-    450: "normal",   # ARAM
+    450: "aram",     # ARAM（集計から除外）
     0:   "normal",   # カスタム
 }
 

@@ -40,6 +40,7 @@ QUEUE_KEYS_MAP = {
     "ranked":      ["ranked_solo", "ranked_flex"],
     "normal":      ["normal"],
     "all":         ["ranked_solo", "ranked_flex", "normal"],
+    # aram は意図的にどの集計にも含まない
 }
 
 CAUSE_ORDER = ["ガンク", "レーンキル", "集団戦", "その他"]
