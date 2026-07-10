@@ -21,7 +21,7 @@ from pathlib import Path
 
 import requests
 
-DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
+DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"].strip()
 STATS_DIR       = Path("stats")
 JST = timezone(timedelta(hours=9))
 

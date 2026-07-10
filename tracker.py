@@ -15,7 +15,7 @@ from pathlib import Path
 RIOT_API_KEY    = os.environ["RIOT_API_KEY"]
 GAME_NAME       = os.environ["GAME_NAME"]
 TAG_LINE        = os.environ["TAG_LINE"]
-DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
+DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"].strip()
 
 PLATFORM = "jp1"
 REGIONAL = "asia"
