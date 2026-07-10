@@ -34,6 +34,10 @@ on:
           - MIDDLE
           - TOP
           - JUNGLE
+      champion:
+        description: "チャンピオン絞り込み（例: Jinx　空欄で全チャンピオン）"
+        required: false
+        default: ""
       min_games:
         description: "マッチアップ最低試合数"
         required: false
@@ -74,8 +78,13 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: >
+          CHAMPION_ARG=""
+          if [ -n "${{ github.event.inputs.champion }}" ]; then
+            CHAMPION_ARG="--champion ${{ github.event.inputs.champion }}"
+          fi
           python report.py
           --queue ${{ github.event.inputs.queue }}
           --lane  ${{ github.event.inputs.lane }}
           --days ${{ github.event.inputs.days }}
           --min-games ${{ github.event.inputs.min_games }}
+          $CHAMPION_ARG

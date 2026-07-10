@@ -1,0 +1,37 @@
+name: LoL Monthly Report（月次レポート）
+
+on:
+  # 毎月1日 9:00 JST（= 0:00 UTC）に自動実行
+  schedule:
+    - cron: "0 0 1 * *"
+  # 手動実行も可能
+  workflow_dispatch:
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ランクのみ・先月分（31日）
+      - name: Monthly report — ranked
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python report.py --queue ranked --days 31 --min-games 2
+
+      # 全キュー・先月分
+      - name: Monthly report — all queues
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python report.py --queue all --days 31 --min-games 2

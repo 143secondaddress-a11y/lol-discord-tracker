@@ -487,6 +487,71 @@ def save_match_record(
     print(f"[Stats] 保存完了: {queue_key}/{stats['game_id']}")
 
 
+# ── アドバイス生成 ────────────────────────────────────
+def generate_advice(
+    stats: dict,
+    solo_kills: int,
+    deaths_detail: list[dict],
+    cp_data: list[dict | None],
+) -> list[str]:
+    lines = []
+
+    # CS/分
+    cs_pm = stats["cs_per_min"]
+    if cs_pm >= 8.0:
+        lines.append(f"✅ CS/分 `{cs_pm}` は非常に優秀です！")
+    elif cs_pm >= 7.0:
+        lines.append(f"✅ CS/分 `{cs_pm}` は良好です")
+    elif cs_pm < 5.0:
+        lines.append(f"📚 CS/分 `{cs_pm}` が低めです。ウェーブ管理を優先しましょう")
+
+    # GD@15 / CSD@15
+    cp15 = next((c for c in cp_data if c and c["min"] == 15), None)
+    if cp15 and cp15.get("gold_diff") is not None:
+        gd = cp15["gold_diff"]
+        if gd <= -800:
+            lines.append(f"📉 GD@15 `{gd:+,}` と大きくリードを失っています。序盤のトレードを見直しましょう")
+        elif gd <= -400:
+            lines.append(f"📉 GD@15 `{gd:+,}` です。序盤の有利を意識しましょう")
+        elif gd >= 800:
+            lines.append(f"📈 GD@15 `{gd:+,}` と大きくリードしています！そのアドバンテージを活かしましょう")
+
+    # デス数
+    if stats["deaths"] >= 8:
+        lines.append(f"⚠️ デス `{stats['deaths']}` 回は多すぎます。生存を最優先にしましょう")
+    elif stats["deaths"] >= 5:
+        lines.append(f"⚠️ デス `{stats['deaths']}` 回は多めです。ポジショニングを意識しましょう")
+    elif stats["deaths"] == 0:
+        lines.append("✅ デスなし！完璧なポジショニングです")
+
+    # ガンク死
+    gank_deaths = sum(1 for d in deaths_detail if d["cause"] == "ガンク")
+    if gank_deaths >= 3:
+        lines.append(f"🗺️ ガンク死が `{gank_deaths}` 回です。ジャングルへのワード設置を増やしましょう")
+    elif gank_deaths >= 2:
+        lines.append(f"🗺️ ガンク死が `{gank_deaths}` 回です。ミニマップを確認する習慣をつけましょう")
+
+    # KP
+    if stats["kp"] < 40:
+        lines.append(f"🤝 KP `{stats['kp']}%` が低めです。集団戦への参加を意識しましょう")
+
+    # ダメージシェア
+    if stats["damage_share"] < 20:
+        lines.append(f"💥 ダメージシェア `{stats['damage_share']}%` が低めです。もっと積極的にトレードしましょう")
+    elif stats["damage_share"] >= 35:
+        lines.append(f"💥 ダメージシェア `{stats['damage_share']}%` と十分に貢献できています！")
+
+    # ソロキル
+    if solo_kills >= 3:
+        lines.append(f"⚔️ ソロキル `{solo_kills}` 回！対面に強いプレイができています")
+
+    # ビジョン
+    if stats["vision_score"] <= 10 and stats["game_sec"] >= 20 * 60:
+        lines.append(f"👁️ ビジョンスコア `{stats['vision_score']}` が低めです。ワードをもっと活用しましょう")
+
+    return lines if lines else ["特に気になる点はありませんでした"]
+
+
 # ── Discord 投稿 ──────────────────────────────────────
 def post_to_discord(
     stats: dict,
@@ -495,6 +560,7 @@ def post_to_discord(
     solo_kills: int,
     rank_str: str | None,
     summoner_name: str,
+    deaths_detail: list[dict] = [],
 ):
     win         = stats["win"]
     color       = 0x57F287 if win else 0xED4245
@@ -567,7 +633,14 @@ def post_to_discord(
         "color":       color,
     }
 
-    payload = {"embeds": [embed_main, embed_timeline]}
+    advice_lines = generate_advice(stats, solo_kills, deaths_detail, checkpoints)
+    embed_advice = {
+        "title":       "💡 今試合のアドバイス",
+        "description": "\n".join(advice_lines),
+        "color":       color,
+    }
+
+    payload = {"embeds": [embed_main, embed_timeline, embed_advice]}
     r = requests.post(DISCORD_WEBHOOK, json=payload, timeout=10)
     r.raise_for_status()
     print(f"[Discord] 投稿完了: {stats['game_id']} ({result_text.strip()})")
@@ -653,7 +726,7 @@ def main():
                 solo_kills    = 0
                 deaths_detail = []
 
-            post_to_discord(stats, comps, cp_data, solo_kills, rank_str, summoner_name)
+            post_to_discord(stats, comps, cp_data, solo_kills, rank_str, summoner_name, deaths_detail)
 
             # stats 保存
             save_match_record(stats, cp_data, deaths_detail)
