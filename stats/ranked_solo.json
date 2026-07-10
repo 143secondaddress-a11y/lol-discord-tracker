@@ -15,6 +15,7 @@
     "gd15": -594,
     "csd15": -29,
     "game_duration_min": 35,
+    "damage_per_min": 337,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -102,6 +103,7 @@
     "gd15": -349,
     "csd15": -15,
     "game_duration_min": 34,
+    "damage_per_min": 507,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -173,6 +175,7 @@
     "gd15": -157,
     "csd15": -12,
     "game_duration_min": 41,
+    "damage_per_min": 955,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -251,6 +254,7 @@
     "gd15": -568,
     "csd15": -15,
     "game_duration_min": 24,
+    "damage_per_min": 882,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -322,6 +326,7 @@
     "gd15": -427,
     "csd15": -28,
     "game_duration_min": 31,
+    "damage_per_min": 684,
     "solo_kills": 1,
     "first_blood": false,
     "deaths_detail": [
@@ -369,6 +374,7 @@
     "gd15": -1379,
     "csd15": -21,
     "game_duration_min": 40,
+    "damage_per_min": 484,
     "solo_kills": 1,
     "first_blood": false,
     "deaths_detail": [
@@ -458,6 +464,7 @@
     "gd15": -515,
     "csd15": -6,
     "game_duration_min": 32,
+    "damage_per_min": 930,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -520,6 +527,7 @@
     "gd15": 745,
     "csd15": 2,
     "game_duration_min": 28,
+    "damage_per_min": 827,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -589,6 +597,7 @@
     "gd15": 1041,
     "csd15": 4,
     "game_duration_min": 15,
+    "damage_per_min": 475,
     "solo_kills": 2,
     "first_blood": false,
     "deaths_detail": [
@@ -636,6 +645,7 @@
     "gd15": -2497,
     "csd15": -38,
     "game_duration_min": 22,
+    "damage_per_min": 560,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -701,6 +711,7 @@
     "gd15": -724,
     "csd15": -4,
     "game_duration_min": 22,
+    "damage_per_min": 337,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -740,6 +751,7 @@
     "gd15": -1454,
     "csd15": -22,
     "game_duration_min": 31,
+    "damage_per_min": 475,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -808,6 +820,7 @@
     "gd15": 73,
     "csd15": -25,
     "game_duration_min": 33,
+    "damage_per_min": 758,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -860,6 +873,7 @@
     "gd15": 2497,
     "csd15": 29,
     "game_duration_min": 23,
+    "damage_per_min": 521,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -889,6 +903,7 @@
     "gd15": -1571,
     "csd15": -21,
     "game_duration_min": 15,
+    "damage_per_min": 372,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -926,6 +941,7 @@
     "gd15": 92,
     "csd15": -6,
     "game_duration_min": 33,
+    "damage_per_min": 856,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -972,6 +988,7 @@
     "gd15": 1780,
     "csd15": 17,
     "game_duration_min": 20,
+    "damage_per_min": 802,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
@@ -1010,6 +1027,7 @@
     "gd15": -452,
     "csd15": -5,
     "game_duration_min": 24,
+    "damage_per_min": 668,
     "solo_kills": 1,
     "first_blood": true,
     "deaths_detail": [
