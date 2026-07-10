@@ -4469,6 +4469,7 @@
     "gd15": 931,
     "csd15": 15,
     "game_duration_min": 27,
+    "damage_per_min": 800,
     "solo_kills": 2,
     "first_blood": false,
     "deaths_detail": [
@@ -4524,6 +4525,7 @@
     "gd15": -2568,
     "csd15": -43,
     "game_duration_min": 21,
+    "damage_per_min": 350,
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": [
