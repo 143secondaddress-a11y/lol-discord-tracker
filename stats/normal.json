@@ -2092,6 +2092,7 @@
   {
     "match_id": "JP1_588665097",
     "date": "2026-06-20T00:05:39.331000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Ezreal",
     "win": false,
@@ -2166,6 +2167,7 @@
   {
     "match_id": "JP1_588544187",
     "date": "2026-06-19T02:24:01.011000+09:00",
+    "lane": "BOTTOM",
     "champion": "Seraphine",
     "opponent": "Aurora",
     "win": false,
@@ -6451,6 +6453,7 @@
   {
     "match_id": "JP1_582837334",
     "date": "2026-05-17T16:14:51.427000+09:00",
+    "lane": "BOTTOM",
     "champion": "Swain",
     "opponent": "Ashe",
     "win": false,
@@ -6489,6 +6492,7 @@
   {
     "match_id": "JP1_582829268",
     "date": "2026-05-17T15:39:07.238000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Jinx",
     "win": false,
@@ -9555,6 +9559,160 @@
         "killer_champion": "Unknown",
         "assist_champions": [],
         "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_588687291",
+    "date": "2026-06-20T01:18:52.263000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Ashe",
+    "opponent": "Samira",
+    "win": false,
+    "kills": 3,
+    "deaths": 5,
+    "assists": 7,
+    "cs_per_min": 7.5,
+    "damage_share": 25.2,
+    "gold_efficiency": 1620,
+    "gd15": -591,
+    "csd15": -18,
+    "game_duration_min": 31,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 11,
+        "killer_champion": "LeeSin",
+        "assist_champions": [
+          "Nami"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Garen",
+        "assist_champions": [
+          "Samira",
+          "Nami"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "LeeSin",
+        "assist_champions": [
+          "Nami"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Garen",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Garen",
+        "assist_champions": [
+          "Olaf"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_588677951",
+    "date": "2026-06-20T00:40:33.574000+09:00",
+    "lane": "BOTTOM",
+    "champion": "MissFortune",
+    "opponent": "Smolder",
+    "win": false,
+    "kills": 5,
+    "deaths": 9,
+    "assists": 7,
+    "cs_per_min": 7.7,
+    "damage_share": 15.1,
+    "gold_efficiency": 1257,
+    "gd15": 1074,
+    "csd15": 22,
+    "game_duration_min": 28,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Milio",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Smolder",
+          "Milio"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Milio"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Sion",
+        "assist_champions": [
+          "Smolder",
+          "Milio"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Sion",
+        "assist_champions": [
+          "Graves",
+          "Milio"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Sion",
+          "Smolder",
+          "Milio"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Graves",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Darius",
+        "assist_champions": [
+          "Milio"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Darius",
+        "assist_champions": [
+          "Milio"
+        ],
+        "cause": "集団戦"
       }
     ]
   }

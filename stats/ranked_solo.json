@@ -847,6 +847,7 @@
   {
     "match_id": "JP1_585469023",
     "date": "2026-05-31T22:59:39.752000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Samira",
     "win": true,
@@ -875,6 +876,7 @@
   {
     "match_id": "JP1_585382276",
     "date": "2026-05-31T15:50:48.833000+09:00",
+    "lane": "MIDDLE",
     "champion": "Malzahar",
     "opponent": "Yorick",
     "win": false,
@@ -911,6 +913,7 @@
   {
     "match_id": "JP1_585374864",
     "date": "2026-05-31T15:31:14.040000+09:00",
+    "lane": "MIDDLE",
     "champion": "Malzahar",
     "opponent": "Viktor",
     "win": true,
@@ -956,6 +959,7 @@
   {
     "match_id": "JP1_585371384",
     "date": "2026-05-31T14:52:48.251000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Caitlyn",
     "win": true,
@@ -993,6 +997,7 @@
   {
     "match_id": "JP1_583255012",
     "date": "2026-05-19T22:28:36.842000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Ezreal",
     "win": false,
