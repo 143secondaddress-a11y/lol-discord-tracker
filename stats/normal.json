@@ -4290,5 +4290,4229 @@
         "cause": "集団戦"
       }
     ]
+  },
+  {
+    "match_id": "JP1_585628691",
+    "date": "2026-06-01T23:39:41.127000+09:00",
+    "champion": "Varus",
+    "opponent": "Ashe",
+    "win": false,
+    "kills": 8,
+    "deaths": 4,
+    "assists": 5,
+    "cs_per_min": 7.8,
+    "damage_share": 34.7,
+    "gold_efficiency": 1617,
+    "gd15": 931,
+    "csd15": 15,
+    "game_duration_min": 27,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Shyvana",
+        "assist_champions": [
+          "Ashe",
+          "Zyra"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Zyra"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Zyra"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Gangplank",
+        "assist_champions": [
+          "Shyvana",
+          "Ashe"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585621407",
+    "date": "2026-06-01T23:08:22.545000+09:00",
+    "champion": "Corki",
+    "opponent": "Caitlyn",
+    "win": true,
+    "kills": 2,
+    "deaths": 2,
+    "assists": 4,
+    "cs_per_min": 7.1,
+    "damage_share": 11.7,
+    "gold_efficiency": 951,
+    "gd15": -2568,
+    "csd15": -43,
+    "game_duration_min": 21,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 11,
+        "killer_champion": "Caitlyn",
+        "assist_champions": [
+          "Velkoz"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Velkoz",
+        "assist_champions": [
+          "Illaoi",
+          "Diana"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585315911",
+    "date": "2026-05-31T03:59:02.144000+09:00",
+    "champion": "Leona",
+    "opponent": "Swain",
+    "win": true,
+    "kills": 2,
+    "deaths": 2,
+    "assists": 17,
+    "cs_per_min": 0.7,
+    "damage_share": 14.8,
+    "gold_efficiency": 1459,
+    "gd15": 65,
+    "csd15": -11,
+    "game_duration_min": 25,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Sett",
+        "assist_champions": [
+          "Khazix",
+          "Swain"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Sett",
+          "Khazix",
+          "Seraphine"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585310959",
+    "date": "2026-05-31T03:27:18.705000+09:00",
+    "champion": "Varus",
+    "opponent": "Xayah",
+    "win": true,
+    "kills": 18,
+    "deaths": 10,
+    "assists": 10,
+    "cs_per_min": 5.9,
+    "damage_share": 45.5,
+    "gold_efficiency": 3645,
+    "gd15": 1205,
+    "csd15": 13,
+    "game_duration_min": 34,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Naafiri",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Naafiri",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Naafiri",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Naafiri",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Naafiri",
+          "Xayah"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Yorick",
+        "assist_champions": [
+          "Naafiri",
+          "Xayah",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Gwen",
+        "assist_champions": [
+          "Yorick",
+          "Bard"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585309058",
+    "date": "2026-05-31T02:44:52.809000+09:00",
+    "champion": "XinZhao",
+    "opponent": "Yasuo",
+    "win": false,
+    "kills": 4,
+    "deaths": 4,
+    "assists": 0,
+    "cs_per_min": 5.9,
+    "damage_share": 39.2,
+    "gold_efficiency": 1874,
+    "gd15": 170,
+    "csd15": -21,
+    "game_duration_min": 15,
+    "solo_kills": 4,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 1,
+        "killer_champion": "Yasuo",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 3,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Yasuo"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Briar",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Ezreal",
+          "Janna"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585299630",
+    "date": "2026-05-31T02:23:12.117000+09:00",
+    "champion": "Veigar",
+    "opponent": "Hwei",
+    "win": false,
+    "kills": 10,
+    "deaths": 7,
+    "assists": 10,
+    "cs_per_min": 6.0,
+    "damage_share": 27.2,
+    "gold_efficiency": 3130,
+    "gd15": -675,
+    "csd15": -29,
+    "game_duration_min": 38,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 8,
+        "killer_champion": "Udyr",
+        "assist_champions": [
+          "Hwei"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Udyr",
+          "Ashe",
+          "Seraphine"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Udyr"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Udyr",
+        "assist_champions": [
+          "Ambessa",
+          "Hwei",
+          "Ashe",
+          "Seraphine"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Udyr",
+        "assist_champions": [
+          "Hwei"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Ashe",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 38,
+        "killer_champion": "Udyr",
+        "assist_champions": [],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585292158",
+    "date": "2026-05-31T01:38:48.881000+09:00",
+    "champion": "Varus",
+    "opponent": "Irelia",
+    "win": false,
+    "kills": 5,
+    "deaths": 7,
+    "assists": 5,
+    "cs_per_min": 7.0,
+    "damage_share": 16.7,
+    "gold_efficiency": 2271,
+    "gd15": 213,
+    "csd15": -14,
+    "game_duration_min": 33,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Irelia",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Sett",
+        "assist_champions": [
+          "LeeSin",
+          "Naafiri",
+          "Swain"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Naafiri",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "LeeSin",
+        "assist_champions": [
+          "Irelia",
+          "Swain",
+          "Sett"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Naafiri",
+        "assist_champions": [
+          "LeeSin",
+          "Sett"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Irelia",
+        "assist_champions": [
+          "LeeSin"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Irelia",
+        "assist_champions": [
+          "LeeSin",
+          "Swain",
+          "Sett"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585283819",
+    "date": "2026-05-31T00:57:50.042000+09:00",
+    "champion": "Viktor",
+    "opponent": "Xerath",
+    "win": false,
+    "kills": 2,
+    "deaths": 5,
+    "assists": 3,
+    "cs_per_min": 5.8,
+    "damage_share": 26.4,
+    "gold_efficiency": 2053,
+    "gd15": -803,
+    "csd15": -5,
+    "game_duration_min": 21,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Shaco",
+        "assist_champions": [
+          "Xerath"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Shaco",
+        "assist_champions": [
+          "Xerath"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Xerath",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "Senna",
+          "Swain"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "Shaco",
+          "Senna",
+          "Swain"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585271590",
+    "date": "2026-05-31T00:21:48.489000+09:00",
+    "champion": "MissFortune",
+    "opponent": "Yasuo",
+    "win": false,
+    "kills": 11,
+    "deaths": 5,
+    "assists": 12,
+    "cs_per_min": 6.9,
+    "damage_share": 22.3,
+    "gold_efficiency": 1677,
+    "gd15": 1762,
+    "csd15": 8,
+    "game_duration_min": 31,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 19,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Graves",
+          "Malphite"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Anivia",
+        "assist_champions": [
+          "Graves",
+          "Malphite"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Gragas",
+          "Anivia",
+          "Malphite"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Gragas",
+        "assist_champions": [
+          "Yasuo",
+          "Malphite"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Anivia",
+          "Malphite"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585261275",
+    "date": "2026-05-30T23:44:28.660000+09:00",
+    "champion": "MissFortune",
+    "opponent": "Kalista",
+    "win": true,
+    "kills": 9,
+    "deaths": 4,
+    "assists": 13,
+    "cs_per_min": 7.5,
+    "damage_share": 26.9,
+    "gold_efficiency": 1933,
+    "gd15": -142,
+    "csd15": 6,
+    "game_duration_min": 31,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Aurora",
+        "assist_champions": [
+          "Viego",
+          "Kalista",
+          "Rakan"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Rakan",
+        "assist_champions": [
+          "Viego"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Aurora",
+        "assist_champions": [
+          "Sion",
+          "Rakan"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Sion",
+          "Rakan"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_585247909",
+    "date": "2026-05-30T23:09:28.992000+09:00",
+    "champion": "MissFortune",
+    "opponent": "Smolder",
+    "win": false,
+    "kills": 9,
+    "deaths": 4,
+    "assists": 10,
+    "cs_per_min": 7.9,
+    "damage_share": 28.2,
+    "gold_efficiency": 2030,
+    "gd15": 1950,
+    "csd15": 24,
+    "game_duration_min": 33,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 23,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Sion",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Sion"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Sion",
+          "Smolder",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Jayce",
+          "Sion",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584856374",
+    "date": "2026-05-28T22:21:10.120000+09:00",
+    "champion": "Viktor",
+    "opponent": "Malphite",
+    "win": true,
+    "kills": 4,
+    "deaths": 0,
+    "assists": 2,
+    "cs_per_min": 8.3,
+    "damage_share": 28.0,
+    "gold_efficiency": 1649,
+    "gd15": 807,
+    "csd15": 9,
+    "game_duration_min": 22,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_584844865",
+    "date": "2026-05-28T21:54:13.716000+09:00",
+    "champion": "Corki",
+    "opponent": "Tristana",
+    "win": true,
+    "kills": 8,
+    "deaths": 2,
+    "assists": 6,
+    "cs_per_min": 8.8,
+    "damage_share": 19.3,
+    "gold_efficiency": 1244,
+    "gd15": 652,
+    "csd15": 9,
+    "game_duration_min": 32,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Leona",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Leona"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584833579",
+    "date": "2026-05-28T21:17:28.453000+09:00",
+    "champion": "Veigar",
+    "opponent": "Brand",
+    "win": false,
+    "kills": 12,
+    "deaths": 5,
+    "assists": 12,
+    "cs_per_min": 6.5,
+    "damage_share": 30.2,
+    "gold_efficiency": 2403,
+    "gd15": 667,
+    "csd15": 19,
+    "game_duration_min": 39,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Akshan",
+        "assist_champions": [
+          "Brand",
+          "Mel"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Akshan",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Akshan",
+        "assist_champions": [
+          "Quinn"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Mel",
+        "assist_champions": [
+          "Quinn"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 38,
+        "killer_champion": "Mel",
+        "assist_champions": [
+          "Akshan"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584706275",
+    "date": "2026-05-27T23:02:15.675000+09:00",
+    "champion": "Jhin",
+    "opponent": "Ezreal",
+    "win": false,
+    "kills": 3,
+    "deaths": 2,
+    "assists": 5,
+    "cs_per_min": 7.0,
+    "damage_share": 23.9,
+    "gold_efficiency": 1147,
+    "gd15": 997,
+    "csd15": 12,
+    "game_duration_min": 18,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 15,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Karma"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Annie",
+        "assist_champions": [
+          "Kayn",
+          "Ezreal",
+          "Karma"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584697753",
+    "date": "2026-05-27T22:39:18.873000+09:00",
+    "champion": "Vi",
+    "opponent": "LeeSin",
+    "win": false,
+    "kills": 2,
+    "deaths": 2,
+    "assists": 2,
+    "cs_per_min": 5.5,
+    "damage_share": 11.7,
+    "gold_efficiency": 722,
+    "gd15": -558,
+    "csd15": -22,
+    "game_duration_min": 20,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 9,
+        "killer_champion": "Urgot",
+        "assist_champions": [
+          "LeeSin",
+          "Galio"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Urgot",
+        "assist_champions": [
+          "LeeSin",
+          "Galio",
+          "MissFortune",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584689596",
+    "date": "2026-05-27T22:13:33.101000+09:00",
+    "champion": "Senna",
+    "opponent": "Yasuo",
+    "win": true,
+    "kills": 2,
+    "deaths": 3,
+    "assists": 12,
+    "cs_per_min": 6.3,
+    "damage_share": 17.8,
+    "gold_efficiency": 1323,
+    "gd15": 1085,
+    "csd15": 1,
+    "game_duration_min": 21,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 11,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Mel",
+          "Ornn"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Ornn",
+        "assist_champions": [
+          "Yasuo"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Gragas",
+        "assist_champions": [
+          "Gangplank",
+          "Yasuo",
+          "Ornn"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584680312",
+    "date": "2026-05-27T21:43:21.076000+09:00",
+    "champion": "Varus",
+    "opponent": "Twitch",
+    "win": false,
+    "kills": 4,
+    "deaths": 5,
+    "assists": 5,
+    "cs_per_min": 8.5,
+    "damage_share": 27.9,
+    "gold_efficiency": 1694,
+    "gd15": 1389,
+    "csd15": 33,
+    "game_duration_min": 32,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 9,
+        "killer_champion": "Twitch",
+        "assist_champions": [
+          "Teemo",
+          "Galio",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Renekton",
+        "assist_champions": [
+          "Galio",
+          "Twitch",
+          "Nautilus"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Twitch",
+        "assist_champions": [
+          "Renekton",
+          "Galio",
+          "Nautilus"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Teemo",
+        "assist_champions": [
+          "Galio",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Teemo",
+        "assist_champions": [
+          "Renekton",
+          "Galio",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584578449",
+    "date": "2026-05-27T01:23:36.218000+09:00",
+    "champion": "Ashe",
+    "opponent": "Ezreal",
+    "win": true,
+    "kills": 5,
+    "deaths": 1,
+    "assists": 4,
+    "cs_per_min": 7.4,
+    "damage_share": 21.9,
+    "gold_efficiency": 1523,
+    "gd15": -648,
+    "csd15": -24,
+    "game_duration_min": 25,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 17,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584573749",
+    "date": "2026-05-27T00:51:21.592000+09:00",
+    "champion": "Neeko",
+    "opponent": "FiddleSticks",
+    "win": false,
+    "kills": 2,
+    "deaths": 3,
+    "assists": 1,
+    "cs_per_min": 1.0,
+    "damage_share": 31.3,
+    "gold_efficiency": 2811,
+    "gd15": -475,
+    "csd15": -9,
+    "game_duration_min": 18,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "FiddleSticks"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "FiddleSticks",
+        "assist_champions": [
+          "Katarina"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "FiddleSticks",
+        "assist_champions": [
+          "Senna"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584567991",
+    "date": "2026-05-27T00:27:34.370000+09:00",
+    "champion": "Varus",
+    "opponent": "Samira",
+    "win": true,
+    "kills": 13,
+    "deaths": 0,
+    "assists": 6,
+    "cs_per_min": 9.4,
+    "damage_share": 43.3,
+    "gold_efficiency": 2153,
+    "gd15": 4814,
+    "csd15": 46,
+    "game_duration_min": 20,
+    "solo_kills": 4,
+    "first_blood": true,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_584553624",
+    "date": "2026-05-27T00:02:31.769000+09:00",
+    "champion": "KogMaw",
+    "opponent": "Varus",
+    "win": false,
+    "kills": 25,
+    "deaths": 11,
+    "assists": 17,
+    "cs_per_min": 5.1,
+    "damage_share": 32.1,
+    "gold_efficiency": 3065,
+    "gd15": 854,
+    "csd15": -10,
+    "game_duration_min": 48,
+    "solo_kills": 8,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Kayn",
+          "Anivia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "MonkeyKing",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Lissandra",
+        "assist_champions": [
+          "MonkeyKing"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Lissandra",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "MonkeyKing",
+        "assist_champions": [
+          "Varus",
+          "Anivia"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "MonkeyKing",
+          "Kayn",
+          "Lissandra",
+          "Anivia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Lissandra",
+        "assist_champions": [
+          "MonkeyKing",
+          "Kayn",
+          "Anivia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "MonkeyKing",
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583605170",
+    "date": "2026-05-21T22:56:27.720000+09:00",
+    "champion": "Caitlyn",
+    "opponent": "Corki",
+    "win": true,
+    "kills": 3,
+    "deaths": 0,
+    "assists": 0,
+    "cs_per_min": 8.1,
+    "damage_share": 14.3,
+    "gold_efficiency": 871,
+    "gd15": 296,
+    "csd15": -12,
+    "game_duration_min": 15,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_583596855",
+    "date": "2026-05-21T22:35:35.901000+09:00",
+    "champion": "Leona",
+    "opponent": "Morgana",
+    "win": true,
+    "kills": 2,
+    "deaths": 0,
+    "assists": 3,
+    "cs_per_min": 1.5,
+    "damage_share": 11.5,
+    "gold_efficiency": 811,
+    "gd15": 272,
+    "csd15": 5,
+    "game_duration_min": 17,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_583585433",
+    "date": "2026-05-21T22:13:57.426000+09:00",
+    "champion": "Vi",
+    "opponent": "Nidalee",
+    "win": true,
+    "kills": 0,
+    "deaths": 3,
+    "assists": 10,
+    "cs_per_min": 5.6,
+    "damage_share": 8.6,
+    "gold_efficiency": 870,
+    "gd15": -5,
+    "csd15": -13,
+    "game_duration_min": 36,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Gangplank",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Gangplank",
+          "Nidalee",
+          "Ahri",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Gangplank",
+        "assist_champions": [
+          "Nidalee",
+          "Varus",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583578846",
+    "date": "2026-05-21T21:33:17.722000+09:00",
+    "champion": "Varus",
+    "opponent": "Ashe",
+    "win": true,
+    "kills": 8,
+    "deaths": 1,
+    "assists": 4,
+    "cs_per_min": 9.5,
+    "damage_share": 27.0,
+    "gold_efficiency": 1167,
+    "gd15": 1965,
+    "csd15": 29,
+    "game_duration_min": 18,
+    "solo_kills": 1,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Nautilus",
+        "assist_champions": [
+          "Viego",
+          "Ashe"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583572978",
+    "date": "2026-05-21T21:18:56.082000+09:00",
+    "champion": "Galio",
+    "opponent": "Hwei",
+    "win": false,
+    "kills": 3,
+    "deaths": 7,
+    "assists": 10,
+    "cs_per_min": 0.0,
+    "damage_share": 9.8,
+    "gold_efficiency": 1655,
+    "gd15": -1305,
+    "csd15": 0,
+    "game_duration_min": 28,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Zilean",
+          "MasterYi"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Zeri",
+        "assist_champions": [
+          "Hwei",
+          "Rell"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Ambessa",
+        "assist_champions": [
+          "Fiora",
+          "Ezreal"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Sion",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "MasterYi",
+        "assist_champions": [
+          "Sylas",
+          "Zilean"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Rell",
+          "Zeri"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Fiora",
+        "assist_champions": [
+          "Ambessa",
+          "Ezreal"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583478200",
+    "date": "2026-05-21T02:27:16.974000+09:00",
+    "champion": "Viktor",
+    "opponent": "Xerath",
+    "win": false,
+    "kills": 2,
+    "deaths": 7,
+    "assists": 12,
+    "cs_per_min": 5.0,
+    "damage_share": 23.1,
+    "gold_efficiency": 2202,
+    "gd15": -426,
+    "csd15": -9,
+    "game_duration_min": 33,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Xerath",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Rengar",
+        "assist_champions": [
+          "Xerath"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Rengar",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Heimerdinger",
+          "Rengar",
+          "Rakan"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Heimerdinger",
+          "Rakan"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "Xayah",
+          "Rakan"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "Heimerdinger",
+          "Xayah",
+          "Rakan"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583474821",
+    "date": "2026-05-21T01:49:04.441000+09:00",
+    "champion": "Braum",
+    "opponent": "Blitzcrank",
+    "win": true,
+    "kills": 4,
+    "deaths": 4,
+    "assists": 12,
+    "cs_per_min": 0.5,
+    "damage_share": 17.8,
+    "gold_efficiency": 1236,
+    "gd15": 560,
+    "csd15": -19,
+    "game_duration_min": 17,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Chogath",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Chogath",
+        "assist_champions": [
+          "Blitzcrank"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Chogath",
+        "assist_champions": [
+          "Ahri",
+          "Blitzcrank"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Hecarim",
+          "Chogath"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583467663",
+    "date": "2026-05-21T01:23:55.442000+09:00",
+    "champion": "Mel",
+    "opponent": "TwistedFate",
+    "win": false,
+    "kills": 7,
+    "deaths": 6,
+    "assists": 8,
+    "cs_per_min": 6.9,
+    "damage_share": 27.8,
+    "gold_efficiency": 2167,
+    "gd15": 219,
+    "csd15": 24,
+    "game_duration_min": 38,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Ekko",
+        "assist_champions": [
+          "Smolder"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Ekko",
+        "assist_champions": [
+          "TwistedFate"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Ekko",
+        "assist_champions": [
+          "Smolder",
+          "Rell"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Olaf",
+        "assist_champions": [
+          "Ekko",
+          "Rell"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "TwistedFate",
+        "assist_champions": [
+          "Smolder",
+          "Rell"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 37,
+        "killer_champion": "Olaf",
+        "assist_champions": [
+          "Smolder",
+          "Rell"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583465123",
+    "date": "2026-05-21T00:41:33.582000+09:00",
+    "champion": "DrMundo",
+    "opponent": "Vi",
+    "win": false,
+    "kills": 2,
+    "deaths": 3,
+    "assists": 0,
+    "cs_per_min": 6.0,
+    "damage_share": 18.7,
+    "gold_efficiency": 1257,
+    "gd15": -836,
+    "csd15": -18,
+    "game_duration_min": 15,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Vi",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Darius",
+        "assist_champions": [
+          "Vi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Vi",
+        "assist_champions": [
+          "Veigar"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583457887",
+    "date": "2026-05-21T00:21:48.811000+09:00",
+    "champion": "Kaisa",
+    "opponent": "Jinx",
+    "win": true,
+    "kills": 12,
+    "deaths": 2,
+    "assists": 3,
+    "cs_per_min": 7.6,
+    "damage_share": 31.6,
+    "gold_efficiency": 1780,
+    "gd15": 2747,
+    "csd15": 9,
+    "game_duration_min": 15,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Skarner",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Skarner",
+          "Jinx"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583413686",
+    "date": "2026-05-20T21:56:37.066000+09:00",
+    "champion": "Varus",
+    "opponent": "Xayah",
+    "win": true,
+    "kills": 6,
+    "deaths": 5,
+    "assists": 10,
+    "cs_per_min": 7.1,
+    "damage_share": 17.6,
+    "gold_efficiency": 1465,
+    "gd15": -2114,
+    "csd15": -22,
+    "game_duration_min": 30,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Lillia",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Neeko"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Lillia",
+          "Neeko"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Xayah",
+        "assist_champions": [
+          "Neeko"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "RekSai",
+        "assist_champions": [
+          "Xayah"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583403776",
+    "date": "2026-05-20T21:21:11.290000+09:00",
+    "champion": "Varus",
+    "opponent": "Ashe",
+    "win": false,
+    "kills": 2,
+    "deaths": 5,
+    "assists": 9,
+    "cs_per_min": 8.4,
+    "damage_share": 21.3,
+    "gold_efficiency": 1385,
+    "gd15": 1218,
+    "csd15": 18,
+    "game_duration_min": 30,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 8,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Malzahar",
+          "Rell"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Rell",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Kennen",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Naafiri",
+        "assist_champions": [
+          "Kennen",
+          "Malzahar",
+          "Ashe",
+          "Rell"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Malzahar",
+        "assist_champions": [
+          "Kennen",
+          "Naafiri",
+          "Ashe",
+          "Rell"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583290953",
+    "date": "2026-05-20T01:07:37.427000+09:00",
+    "champion": "Varus",
+    "opponent": "Sivir",
+    "win": false,
+    "kills": 29,
+    "deaths": 10,
+    "assists": 16,
+    "cs_per_min": 7.5,
+    "damage_share": 37.9,
+    "gold_efficiency": 2495,
+    "gd15": 1917,
+    "csd15": 15,
+    "game_duration_min": 46,
+    "solo_kills": 3,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 9,
+        "killer_champion": "Sivir",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Ahri",
+        "assist_champions": [
+          "Sivir"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Sivir",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Sivir",
+        "assist_champions": [
+          "Malphite",
+          "Riven",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Malphite",
+        "assist_champions": [
+          "Sivir"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Sivir",
+        "assist_champions": [
+          "Malphite",
+          "Ahri",
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 36,
+        "killer_champion": "Malphite",
+        "assist_champions": [
+          "Riven",
+          "Ahri",
+          "Sivir",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 38,
+        "killer_champion": "Sivir",
+        "assist_champions": [
+          "Malphite",
+          "Ahri",
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 41,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Ahri",
+          "Sivir",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 45,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Malphite",
+          "Ahri",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583287088",
+    "date": "2026-05-20T00:13:59.516000+09:00",
+    "champion": "Ashe",
+    "opponent": "Varus",
+    "win": true,
+    "kills": 4,
+    "deaths": 1,
+    "assists": 8,
+    "cs_per_min": 7.0,
+    "damage_share": 21.5,
+    "gold_efficiency": 1309,
+    "gd15": 1147,
+    "csd15": 0,
+    "game_duration_min": 16,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Pantheon"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583272503",
+    "date": "2026-05-19T23:51:38.860000+09:00",
+    "champion": "Kaisa",
+    "opponent": "Ezreal",
+    "win": true,
+    "kills": 12,
+    "deaths": 7,
+    "assists": 22,
+    "cs_per_min": 7.0,
+    "damage_share": 31.8,
+    "gold_efficiency": 2430,
+    "gd15": 1760,
+    "csd15": 13,
+    "game_duration_min": 44,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 17,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "Vi",
+          "Ahri",
+          "Ezreal"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Vi",
+        "assist_champions": [
+          "Ezreal",
+          "Xerath"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Ahri",
+        "assist_champions": [
+          "Ezreal",
+          "Xerath"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Mordekaiser",
+        "assist_champions": [
+          "Ezreal",
+          "Xerath"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Vi",
+        "assist_champions": [
+          "Ahri",
+          "Xerath"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Ahri",
+        "assist_champions": [
+          "Mordekaiser",
+          "Ezreal",
+          "Xerath"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 36,
+        "killer_champion": "Ahri",
+        "assist_champions": [
+          "Mordekaiser",
+          "Xerath"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583264920",
+    "date": "2026-05-19T23:02:30.822000+09:00",
+    "champion": "Varus",
+    "opponent": "Jinx",
+    "win": true,
+    "kills": 5,
+    "deaths": 1,
+    "assists": 2,
+    "cs_per_min": 9.0,
+    "damage_share": 24.7,
+    "gold_efficiency": 1507,
+    "gd15": 1100,
+    "csd15": 9,
+    "game_duration_min": 19,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Jinx",
+        "assist_champions": [
+          "Lux"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_582837334",
+    "date": "2026-05-17T16:14:51.427000+09:00",
+    "champion": "Swain",
+    "opponent": "Ashe",
+    "win": false,
+    "kills": 7,
+    "deaths": 2,
+    "assists": 0,
+    "cs_per_min": 7.6,
+    "damage_share": 31.3,
+    "gold_efficiency": 1571,
+    "gd15": 1872,
+    "csd15": -12,
+    "game_duration_min": 28,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 19,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Ashe",
+          "Braum"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "LeeSin",
+          "Braum"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_582829268",
+    "date": "2026-05-17T15:39:07.238000+09:00",
+    "champion": "Varus",
+    "opponent": "Jinx",
+    "win": false,
+    "kills": 7,
+    "deaths": 8,
+    "assists": 10,
+    "cs_per_min": 7.6,
+    "damage_share": 34.1,
+    "gold_efficiency": 3298,
+    "gd15": 202,
+    "csd15": 36,
+    "game_duration_min": 34,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Jinx",
+        "assist_champions": [
+          "TahmKench"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "TahmKench",
+        "assist_champions": [
+          "Talon",
+          "Jinx"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Irelia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Jinx",
+          "TahmKench"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Irelia",
+          "TahmKench"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Jinx"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Sylas",
+          "Irelia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 33,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Irelia"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_582470648",
+    "date": "2026-05-15T23:34:43.125000+09:00",
+    "champion": "Neeko",
+    "opponent": "Pantheon",
+    "win": true,
+    "kills": 4,
+    "deaths": 3,
+    "assists": 15,
+    "cs_per_min": 0.7,
+    "damage_share": 16.9,
+    "gold_efficiency": 2263,
+    "gd15": -427,
+    "csd15": 1,
+    "game_duration_min": 27,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Pantheon",
+        "assist_champions": [
+          "Smolder"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Pantheon",
+        "assist_champions": [
+          "Smolder"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Kayle",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_582303827",
+    "date": "2026-05-14T23:54:23.258000+09:00",
+    "champion": "Leona",
+    "opponent": "Lux",
+    "win": false,
+    "kills": 2,
+    "deaths": 6,
+    "assists": 12,
+    "cs_per_min": 0.6,
+    "damage_share": 8.8,
+    "gold_efficiency": 1113,
+    "gd15": 79,
+    "csd15": -10,
+    "game_duration_min": 35,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 9,
+        "killer_champion": "LeeSin",
+        "assist_champions": [
+          "Smolder"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "LeeSin",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Aurora",
+        "assist_champions": [
+          "Camille",
+          "Lux"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Camille",
+          "LeeSin",
+          "Aurora",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "LeeSin",
+        "assist_champions": [
+          "Camille",
+          "Aurora",
+          "Smolder",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 34,
+        "killer_champion": "Camille",
+        "assist_champions": [
+          "LeeSin",
+          "Smolder"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_582297613",
+    "date": "2026-05-14T23:14:31.361000+09:00",
+    "champion": "Varus",
+    "opponent": "Jhin",
+    "win": true,
+    "kills": 4,
+    "deaths": 0,
+    "assists": 1,
+    "cs_per_min": 6.5,
+    "damage_share": 19.7,
+    "gold_efficiency": 1297,
+    "gd15": 721,
+    "csd15": -17,
+    "game_duration_min": 15,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_582288784",
+    "date": "2026-05-14T22:52:57.882000+09:00",
+    "champion": "Smolder",
+    "opponent": "Varus",
+    "win": false,
+    "kills": 4,
+    "deaths": 6,
+    "assists": 4,
+    "cs_per_min": 7.2,
+    "damage_share": 22.9,
+    "gold_efficiency": 1427,
+    "gd15": -2608,
+    "csd15": -36,
+    "game_duration_min": 20,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Karma"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 5,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Varus",
+          "Karma"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Karma"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Karma"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Varus",
+          "Karma"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Singed",
+        "assist_champions": [
+          "Varus",
+          "Karma"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581233169",
+    "date": "2026-05-09T05:06:22.908000+09:00",
+    "champion": "Corki",
+    "opponent": "Ezreal",
+    "win": true,
+    "kills": 5,
+    "deaths": 4,
+    "assists": 15,
+    "cs_per_min": 6.8,
+    "damage_share": 22.8,
+    "gold_efficiency": 1728,
+    "gd15": -230,
+    "csd15": -6,
+    "game_duration_min": 34,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 9,
+        "killer_champion": "Morgana",
+        "assist_champions": [
+          "Karma"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Viktor",
+        "assist_champions": [
+          "Morgana",
+          "Ezreal"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Yorick",
+        "assist_champions": [
+          "Ezreal",
+          "Karma"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Yorick",
+        "assist_champions": [
+          "Ezreal",
+          "Karma"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581230468",
+    "date": "2026-05-09T04:28:10.444000+09:00",
+    "champion": "Smolder",
+    "opponent": "Ezreal",
+    "win": true,
+    "kills": 5,
+    "deaths": 1,
+    "assists": 7,
+    "cs_per_min": 7.4,
+    "damage_share": 23.0,
+    "gold_efficiency": 1362,
+    "gd15": -80,
+    "csd15": -7,
+    "game_duration_min": 21,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Singed",
+          "Brand"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581227465",
+    "date": "2026-05-09T04:01:14.709000+09:00",
+    "champion": "Swain",
+    "opponent": "Yone",
+    "win": true,
+    "kills": 7,
+    "deaths": 0,
+    "assists": 9,
+    "cs_per_min": 6.7,
+    "damage_share": 27.3,
+    "gold_efficiency": 2611,
+    "gd15": 1015,
+    "csd15": 4,
+    "game_duration_min": 24,
+    "solo_kills": 4,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_581179137",
+    "date": "2026-05-09T00:14:43.790000+09:00",
+    "champion": "Viktor",
+    "opponent": "Orianna",
+    "win": true,
+    "kills": 5,
+    "deaths": 1,
+    "assists": 6,
+    "cs_per_min": 7.2,
+    "damage_share": 19.5,
+    "gold_efficiency": 1559,
+    "gd15": -205,
+    "csd15": 1,
+    "game_duration_min": 28,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Orianna",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581167477",
+    "date": "2026-05-08T23:41:11.410000+09:00",
+    "champion": "Veigar",
+    "opponent": "Sion",
+    "win": false,
+    "kills": 16,
+    "deaths": 4,
+    "assists": 5,
+    "cs_per_min": 6.7,
+    "damage_share": 41.8,
+    "gold_efficiency": 4287,
+    "gd15": 716,
+    "csd15": -15,
+    "game_duration_min": 32,
+    "solo_kills": 7,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 18,
+        "killer_champion": "Velkoz",
+        "assist_champions": [
+          "Smolder"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Kayn",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Kayn",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Sion",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581156174",
+    "date": "2026-05-08T23:04:23.714000+09:00",
+    "champion": "Vex",
+    "opponent": "Viktor",
+    "win": false,
+    "kills": 4,
+    "deaths": 3,
+    "assists": 12,
+    "cs_per_min": 5.1,
+    "damage_share": 21.7,
+    "gold_efficiency": 1948,
+    "gd15": -164,
+    "csd15": -6,
+    "game_duration_min": 36,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Shyvana",
+        "assist_champions": [
+          "Viktor"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 33,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Yone",
+          "Viktor",
+          "Braum"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 36,
+        "killer_champion": "Yone",
+        "assist_champions": [
+          "Shyvana",
+          "Viktor",
+          "Braum"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581142931",
+    "date": "2026-05-08T22:23:26.638000+09:00",
+    "champion": "Malzahar",
+    "opponent": "Diana",
+    "win": false,
+    "kills": 3,
+    "deaths": 5,
+    "assists": 7,
+    "cs_per_min": 7.7,
+    "damage_share": 27.3,
+    "gold_efficiency": 2472,
+    "gd15": -681,
+    "csd15": -4,
+    "game_duration_min": 35,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 8,
+        "killer_champion": "Diana",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "MasterYi",
+          "Diana"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "MasterYi",
+        "assist_champions": [
+          "Leona"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "MasterYi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 35,
+        "killer_champion": "MasterYi",
+        "assist_champions": [
+          "Diana"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581011979",
+    "date": "2026-05-08T00:21:27.832000+09:00",
+    "champion": "Ahri",
+    "opponent": "AurelionSol",
+    "win": true,
+    "kills": 9,
+    "deaths": 1,
+    "assists": 5,
+    "cs_per_min": 7.5,
+    "damage_share": 27.6,
+    "gold_efficiency": 2029,
+    "gd15": 1833,
+    "csd15": 39,
+    "game_duration_min": 23,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Nocturne",
+        "assist_champions": [],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_581004648",
+    "date": "2026-05-07T23:53:32.108000+09:00",
+    "champion": "Smolder",
+    "opponent": "MissFortune",
+    "win": false,
+    "kills": 3,
+    "deaths": 4,
+    "assists": 4,
+    "cs_per_min": 7.0,
+    "damage_share": 13.6,
+    "gold_efficiency": 1012,
+    "gd15": -37,
+    "csd15": -35,
+    "game_duration_min": 25,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Malphite"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Malphite"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Jax",
+          "Malphite"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Mel",
+          "Malphite"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580993718",
+    "date": "2026-05-07T23:23:14.948000+09:00",
+    "champion": "Varus",
+    "opponent": "Kalista",
+    "win": false,
+    "kills": 4,
+    "deaths": 6,
+    "assists": 7,
+    "cs_per_min": 8.0,
+    "damage_share": 23.9,
+    "gold_efficiency": 1677,
+    "gd15": 526,
+    "csd15": -2,
+    "game_duration_min": 32,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Taric"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Taric"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "JarvanIV"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Taric"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Akali",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "JarvanIV"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580982674",
+    "date": "2026-05-07T22:43:39.874000+09:00",
+    "champion": "Sivir",
+    "opponent": "Varus",
+    "win": false,
+    "kills": 3,
+    "deaths": 11,
+    "assists": 13,
+    "cs_per_min": 6.7,
+    "damage_share": 20.5,
+    "gold_efficiency": 1537,
+    "gd15": -1540,
+    "csd15": -24,
+    "game_duration_min": 34,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 11,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Alistar"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Alistar"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Alistar"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Alistar"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Rumble",
+        "assist_champions": [
+          "Varus"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Yasuo",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Rumble",
+        "assist_champions": [
+          "Graves",
+          "Varus",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Graves",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Graves",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 33,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Graves",
+          "Alistar"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580972247",
+    "date": "2026-05-07T22:05:16.114000+09:00",
+    "champion": "Ashe",
+    "opponent": "Smolder",
+    "win": false,
+    "kills": 13,
+    "deaths": 4,
+    "assists": 11,
+    "cs_per_min": 7.2,
+    "damage_share": 25.0,
+    "gold_efficiency": 1835,
+    "gd15": 3248,
+    "csd15": 26,
+    "game_duration_min": 33,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 18,
+        "killer_champion": "Nunu",
+        "assist_champions": [
+          "Lissandra",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Quinn",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Quinn",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 33,
+        "killer_champion": "Quinn",
+        "assist_champions": [
+          "Nunu",
+          "Lissandra",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580863471",
+    "date": "2026-05-07T01:57:05.835000+09:00",
+    "champion": "Neeko",
+    "opponent": "Taliyah",
+    "win": true,
+    "kills": 2,
+    "deaths": 2,
+    "assists": 13,
+    "cs_per_min": 1.4,
+    "damage_share": 14.9,
+    "gold_efficiency": 1566,
+    "gd15": -376,
+    "csd15": 0,
+    "game_duration_min": 24,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Draven",
+        "assist_champions": [
+          "Taliyah"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Khazix",
+        "assist_champions": [
+          "Draven",
+          "Taliyah"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580857304",
+    "date": "2026-05-07T01:28:23.378000+09:00",
+    "champion": "Malphite",
+    "opponent": "Yasuo",
+    "win": false,
+    "kills": 12,
+    "deaths": 6,
+    "assists": 10,
+    "cs_per_min": 6.3,
+    "damage_share": 34.9,
+    "gold_efficiency": 2885,
+    "gd15": 1473,
+    "csd15": -15,
+    "game_duration_min": 35,
+    "solo_kills": 3,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 15,
+        "killer_champion": "Nocturne",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Nocturne",
+          "Leona"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Brand",
+          "Leona"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Yasuo",
+        "assist_champions": [
+          "Brand",
+          "Leona"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Yasuo",
+          "Brand",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 34,
+        "killer_champion": "Leona",
+        "assist_champions": [
+          "Yasuo",
+          "Brand"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580850236",
+    "date": "2026-05-07T00:47:25.804000+09:00",
+    "champion": "Chogath",
+    "opponent": "Zaahen",
+    "win": false,
+    "kills": 9,
+    "deaths": 8,
+    "assists": 10,
+    "cs_per_min": 3.9,
+    "damage_share": 26.3,
+    "gold_efficiency": 3262,
+    "gd15": -413,
+    "csd15": -38,
+    "game_duration_min": 36,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Zaahen",
+        "assist_champions": [
+          "Zac"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Zaahen",
+        "assist_champions": [
+          "Zac"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Jhin",
+          "Lux"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Zaahen",
+          "Zac"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Jhin",
+        "assist_champions": [
+          "Zaahen",
+          "Zac",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Zaahen"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Zaahen",
+          "Jhin"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 35,
+        "killer_champion": "Jhin",
+        "assist_champions": [
+          "Zaahen",
+          "Zac",
+          "Akali",
+          "Lux"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580842105",
+    "date": "2026-05-07T00:05:24.815000+09:00",
+    "champion": "Alistar",
+    "opponent": "Nautilus",
+    "win": false,
+    "kills": 0,
+    "deaths": 2,
+    "assists": 6,
+    "cs_per_min": 0.6,
+    "damage_share": 8.7,
+    "gold_efficiency": 841,
+    "gd15": -443,
+    "csd15": -10,
+    "game_duration_min": 25,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 21,
+        "killer_champion": "Darius",
+        "assist_champions": [
+          "Nautilus"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Darius",
+        "assist_champions": [
+          "Tristana",
+          "Nautilus"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580745936",
+    "date": "2026-05-06T17:03:29.127000+09:00",
+    "champion": "Smolder",
+    "opponent": "Ezreal",
+    "win": true,
+    "kills": 5,
+    "deaths": 6,
+    "assists": 12,
+    "cs_per_min": 7.2,
+    "damage_share": 19.6,
+    "gold_efficiency": 1496,
+    "gd15": 754,
+    "csd15": 4,
+    "game_duration_min": 29,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Nunu",
+        "assist_champions": [
+          "Ezreal",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Nunu",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Nunu",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "Nunu"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Nunu",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "Nunu",
+          "Ezreal"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580737700",
+    "date": "2026-05-06T16:28:50.701000+09:00",
+    "champion": "MissFortune",
+    "opponent": "Yunara",
+    "win": false,
+    "kills": 2,
+    "deaths": 7,
+    "assists": 5,
+    "cs_per_min": 8.1,
+    "damage_share": 19.4,
+    "gold_efficiency": 1576,
+    "gd15": 1126,
+    "csd15": 24,
+    "game_duration_min": 32,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 18,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Malphite",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Tryndamere",
+          "Malphite",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Tryndamere",
+        "assist_champions": [
+          "Lulu"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Ahri"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Tryndamere",
+          "Lulu"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Tryndamere",
+        "assist_champions": [
+          "Ahri"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Lulu"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580734540",
+    "date": "2026-05-06T15:52:27.226000+09:00",
+    "champion": "Ezreal",
+    "opponent": "Irelia",
+    "win": true,
+    "kills": 0,
+    "deaths": 6,
+    "assists": 1,
+    "cs_per_min": 4.8,
+    "damage_share": 24.1,
+    "gold_efficiency": 1874,
+    "gd15": -3106,
+    "csd15": -36,
+    "game_duration_min": 15,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Irelia",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Irelia",
+        "assist_champions": [
+          "Nunu"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "TahmKench",
+        "assist_champions": [
+          "Nunu"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Irelia",
+        "assist_champions": [
+          "Nunu",
+          "TahmKench"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Nunu"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Nautilus",
+          "Irelia"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580728437",
+    "date": "2026-05-06T15:28:50.811000+09:00",
+    "champion": "Yunara",
+    "opponent": "Smolder",
+    "win": false,
+    "kills": 2,
+    "deaths": 4,
+    "assists": 5,
+    "cs_per_min": 7.7,
+    "damage_share": 24.4,
+    "gold_efficiency": 1487,
+    "gd15": -203,
+    "csd15": -15,
+    "game_duration_min": 26,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Kayn",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Kayn",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Smolder",
+        "assist_champions": [
+          "Kayn",
+          "Xerath",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580721435",
+    "date": "2026-05-06T14:56:08.297000+09:00",
+    "champion": "Varus",
+    "opponent": "Brand",
+    "win": true,
+    "kills": 9,
+    "deaths": 9,
+    "assists": 15,
+    "cs_per_min": 6.9,
+    "damage_share": 24.1,
+    "gold_efficiency": 2068,
+    "gd15": -82,
+    "csd15": 9,
+    "game_duration_min": 43,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 8,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Anivia",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Jayce",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Jayce"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 34,
+        "killer_champion": "Gnar",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 35,
+        "killer_champion": "Gnar",
+        "assist_champions": [
+          "Morgana"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 39,
+        "killer_champion": "Jayce",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 41,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580407622",
+    "date": "2026-05-04T23:45:03.282000+09:00",
+    "champion": "Leona",
+    "opponent": "Zilean",
+    "win": false,
+    "kills": 2,
+    "deaths": 6,
+    "assists": 16,
+    "cs_per_min": 0.7,
+    "damage_share": 19.1,
+    "gold_efficiency": 2202,
+    "gd15": 609,
+    "csd15": -3,
+    "game_duration_min": 29,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Zilean",
+        "assist_champions": [
+          "Swain"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Swain",
+        "assist_champions": [
+          "Zilean"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "JarvanIV",
+        "assist_champions": [
+          "Mordekaiser",
+          "Zed",
+          "Swain",
+          "Zilean"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Swain",
+        "assist_champions": [
+          "Mordekaiser",
+          "JarvanIV",
+          "Zed",
+          "Zilean"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Mordekaiser",
+        "assist_champions": [
+          "JarvanIV",
+          "Zed",
+          "Swain",
+          "Zilean"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Mordekaiser",
+        "assist_champions": [
+          "JarvanIV",
+          "Zed",
+          "Swain",
+          "Zilean"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580398160",
+    "date": "2026-05-04T23:10:52.671000+09:00",
+    "champion": "Morgana",
+    "opponent": "Braum",
+    "win": true,
+    "kills": 1,
+    "deaths": 6,
+    "assists": 27,
+    "cs_per_min": 0.8,
+    "damage_share": 14.6,
+    "gold_efficiency": 1812,
+    "gd15": 45,
+    "csd15": 5,
+    "game_duration_min": 34,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Katarina",
+        "assist_champions": [
+          "Ashe"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Katarina",
+        "assist_champions": [
+          "Briar",
+          "Ashe"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Katarina",
+          "Ashe"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Katarina",
+        "assist_champions": [
+          "Briar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Ashe",
+          "Braum"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Katarina",
+        "assist_champions": [
+          "Aatrox",
+          "Ashe"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580390491",
+    "date": "2026-05-04T22:32:41.535000+09:00",
+    "champion": "Nami",
+    "opponent": "Seraphine",
+    "win": true,
+    "kills": 2,
+    "deaths": 1,
+    "assists": 5,
+    "cs_per_min": 0.9,
+    "damage_share": 11.1,
+    "gold_efficiency": 861,
+    "gd15": 490,
+    "csd15": 7,
+    "game_duration_min": 18,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Seraphine",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580385414",
+    "date": "2026-05-04T22:07:54.757000+09:00",
+    "champion": "Ashe",
+    "opponent": "Twitch",
+    "win": true,
+    "kills": 6,
+    "deaths": 0,
+    "assists": 3,
+    "cs_per_min": 8.4,
+    "damage_share": 28.8,
+    "gold_efficiency": 1271,
+    "gd15": 1825,
+    "csd15": 15,
+    "game_duration_min": 14,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_580378103",
+    "date": "2026-05-04T21:49:03.384000+09:00",
+    "champion": "Smolder",
+    "opponent": "Senna",
+    "win": true,
+    "kills": 6,
+    "deaths": 4,
+    "assists": 10,
+    "cs_per_min": 7.4,
+    "damage_share": 18.1,
+    "gold_efficiency": 1376,
+    "gd15": -996,
+    "csd15": -4,
+    "game_duration_min": 27,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "Zaahen",
+          "Rengar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "Rengar"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Mordekaiser",
+        "assist_champions": [
+          "Rengar"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Mordekaiser",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580370635",
+    "date": "2026-05-04T21:14:31.742000+09:00",
+    "champion": "Smolder",
+    "opponent": "Ziggs",
+    "win": false,
+    "kills": 2,
+    "deaths": 5,
+    "assists": 5,
+    "cs_per_min": 7.0,
+    "damage_share": 24.8,
+    "gold_efficiency": 1409,
+    "gd15": -2172,
+    "csd15": -40,
+    "game_duration_min": 21,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Ziggs",
+        "assist_champions": [
+          "Sion"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Ziggs",
+        "assist_champions": [
+          "Xerath",
+          "Sion"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Xerath",
+        "assist_champions": [
+          "LeeSin"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Nocturne",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Ziggs",
+        "assist_champions": [
+          "LeeSin"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580126893",
+    "date": "2026-05-03T17:38:57.940000+09:00",
+    "champion": "Ashe",
+    "opponent": "Brand",
+    "win": false,
+    "kills": 3,
+    "deaths": 5,
+    "assists": 5,
+    "cs_per_min": 7.0,
+    "damage_share": 22.5,
+    "gold_efficiency": 1898,
+    "gd15": -854,
+    "csd15": -2,
+    "game_duration_min": 30,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 8,
+        "killer_champion": "Senna",
+        "assist_champions": [
+          "Brand"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Senna"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Quinn",
+        "assist_champions": [
+          "Gangplank"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Shyvana",
+        "assist_champions": [
+          "Brand",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Gangplank",
+        "assist_champions": [
+          "Shyvana",
+          "Brand",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580122762",
+    "date": "2026-05-03T17:02:10.668000+09:00",
+    "champion": "Mel",
+    "opponent": "Ashe",
+    "win": true,
+    "kills": 1,
+    "deaths": 3,
+    "assists": 3,
+    "cs_per_min": 7.7,
+    "damage_share": 11.4,
+    "gold_efficiency": 904,
+    "gd15": -111,
+    "csd15": -8,
+    "game_duration_min": 22,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 11,
+        "killer_champion": "Pantheon",
+        "assist_champions": [
+          "Naafiri"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Pantheon"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Naafiri",
+        "assist_champions": [],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580118549",
+    "date": "2026-05-03T16:35:08.632000+09:00",
+    "champion": "Varus",
+    "opponent": "Aphelios",
+    "win": true,
+    "kills": 5,
+    "deaths": 3,
+    "assists": 5,
+    "cs_per_min": 7.0,
+    "damage_share": 23.2,
+    "gold_efficiency": 1322,
+    "gd15": 509,
+    "csd15": 14,
+    "game_duration_min": 19,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Shaco",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Shaco",
+        "assist_champions": [
+          "Galio"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Orianna",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580112420",
+    "date": "2026-05-03T16:05:58.866000+09:00",
+    "champion": "Lulu",
+    "opponent": "Braum",
+    "win": false,
+    "kills": 1,
+    "deaths": 4,
+    "assists": 3,
+    "cs_per_min": 0.8,
+    "damage_share": 10.8,
+    "gold_efficiency": 887,
+    "gd15": -650,
+    "csd15": 1,
+    "game_duration_min": 27,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Braum",
+        "assist_champions": [
+          "Ashe"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "LeeSin",
+          "Braum"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Yorick",
+          "JarvanIV",
+          "LeeSin",
+          "Braum"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "JarvanIV",
+          "LeeSin",
+          "Braum"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580104305",
+    "date": "2026-05-03T15:18:43.203000+09:00",
+    "champion": "Neeko",
+    "opponent": "Velkoz",
+    "win": true,
+    "kills": 4,
+    "deaths": 4,
+    "assists": 9,
+    "cs_per_min": 1.1,
+    "damage_share": 11.9,
+    "gold_efficiency": 1312,
+    "gd15": -387,
+    "csd15": -4,
+    "game_duration_min": 32,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 10,
+        "killer_champion": "Velkoz",
+        "assist_champions": [
+          "Jhin"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Jhin",
+        "assist_champions": [
+          "Velkoz"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Jhin",
+        "assist_champions": [
+          "Nasus"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Jhin",
+          "Velkoz"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_579822889",
+    "date": "2026-05-02T02:12:27.937000+09:00",
+    "champion": "Sivir",
+    "opponent": "Ezreal",
+    "win": false,
+    "kills": 12,
+    "deaths": 9,
+    "assists": 11,
+    "cs_per_min": 6.9,
+    "damage_share": 30.2,
+    "gold_efficiency": 2668,
+    "gd15": 439,
+    "csd15": 11,
+    "game_duration_min": 45,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Ezreal",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Bard",
+        "assist_champions": [
+          "Ezreal"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "Orianna",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Ezreal",
+        "assist_champions": [
+          "Graves"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 24,
+        "killer_champion": "Orianna",
+        "assist_champions": [
+          "Garen",
+          "Graves",
+          "Ezreal",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Orianna",
+        "assist_champions": [
+          "Ezreal",
+          "Bard"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "Garen",
+        "assist_champions": [
+          "Ezreal"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 33,
+        "killer_champion": "Garen",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 44,
+        "killer_champion": "Garen",
+        "assist_champions": [
+          "Orianna",
+          "Ezreal",
+          "Bard"
+        ],
+        "cause": "集団戦"
+      }
+    ]
   }
 ]
