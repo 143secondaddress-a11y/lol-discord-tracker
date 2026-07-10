@@ -2,6 +2,7 @@
   {
     "match_id": "JP1_591838144",
     "date": "2026-07-09T01:51:22.612000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Lucian",
     "win": true,
@@ -98,6 +99,7 @@
   {
     "match_id": "JP1_591832652",
     "date": "2026-07-09T01:00:03.418000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Senna",
     "win": false,
@@ -149,6 +151,7 @@
   {
     "match_id": "JP1_591828334",
     "date": "2026-07-09T00:31:03.169000+09:00",
+    "lane": "BOTTOM",
     "champion": "Lucian",
     "opponent": "Tristana",
     "win": false,
@@ -194,6 +197,7 @@
   {
     "match_id": "JP1_591819765",
     "date": "2026-07-09T00:03:44.894000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Varus",
     "win": true,
@@ -230,6 +234,7 @@
   {
     "match_id": "JP1_591813272",
     "date": "2026-07-08T23:28:55.932000+09:00",
+    "lane": "BOTTOM",
     "champion": "Karthus",
     "opponent": "AurelionSol",
     "win": false,
@@ -282,6 +287,7 @@
   {
     "match_id": "JP1_591803650",
     "date": "2026-07-08T22:58:39.076000+09:00",
+    "lane": "BOTTOM",
     "champion": "Karthus",
     "opponent": "Ezreal",
     "win": false,
@@ -338,6 +344,7 @@
   {
     "match_id": "JP1_591791721",
     "date": "2026-07-08T22:18:40.195000+09:00",
+    "lane": "BOTTOM",
     "champion": "Karthus",
     "opponent": "Zeri",
     "win": false,
@@ -448,6 +455,7 @@
   {
     "match_id": "JP1_591559332",
     "date": "2026-07-07T01:03:59.428000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Swain",
     "win": true,
@@ -497,6 +505,7 @@
   {
     "match_id": "JP1_591549984",
     "date": "2026-07-07T00:17:08.109000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Jhin",
     "win": true,
@@ -526,6 +535,7 @@
   {
     "match_id": "JP1_591541945",
     "date": "2026-07-06T23:40:56.663000+09:00",
+    "lane": "MIDDLE",
     "champion": "Naafiri",
     "opponent": "Mel",
     "win": false,
@@ -582,6 +592,7 @@
   {
     "match_id": "JP1_591532714",
     "date": "2026-07-06T23:05:43.731000+09:00",
+    "lane": "MIDDLE",
     "champion": "Ahri",
     "opponent": "Sylas",
     "win": true,
@@ -624,6 +635,7 @@
   {
     "match_id": "JP1_591525736",
     "date": "2026-07-06T22:26:40.867000+09:00",
+    "lane": "MIDDLE",
     "champion": "Veigar",
     "opponent": "Naafiri",
     "win": false,
@@ -652,6 +664,7 @@
   {
     "match_id": "JP1_591512829",
     "date": "2026-07-06T21:29:08.430000+09:00",
+    "lane": "BOTTOM",
     "champion": "Jhin",
     "opponent": "Teemo",
     "win": false,
@@ -681,6 +694,7 @@
   {
     "match_id": "JP1_591508643",
     "date": "2026-07-06T21:06:56.393000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "Seraphine",
     "win": false,
@@ -700,6 +714,7 @@
   {
     "match_id": "JP1_591508216",
     "date": "2026-07-06T20:42:28.471000+09:00",
+    "lane": "BOTTOM",
     "champion": "Jhin",
     "opponent": "Aphelios",
     "win": true,
@@ -719,6 +734,7 @@
   {
     "match_id": "JP1_591502997",
     "date": "2026-07-06T20:34:57.976000+09:00",
+    "lane": "BOTTOM",
     "champion": "Karthus",
     "opponent": "Ezreal",
     "win": true,
@@ -747,6 +763,7 @@
   {
     "match_id": "JP1_591228858",
     "date": "2026-07-05T01:21:48.645000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "Mel",
     "win": true,
@@ -835,6 +852,7 @@
   {
     "match_id": "JP1_591222966",
     "date": "2026-07-05T00:35:24.584000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Yunara",
     "win": false,
@@ -891,6 +909,7 @@
   {
     "match_id": "JP1_591212849",
     "date": "2026-07-05T00:11:58.856000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Caitlyn",
     "win": true,
@@ -929,6 +948,7 @@
   {
     "match_id": "JP1_590741871",
     "date": "2026-07-02T00:02:58.241000+09:00",
+    "lane": "BOTTOM",
     "champion": "Jhin",
     "opponent": "Jinx",
     "win": true,
@@ -1004,6 +1024,7 @@
   {
     "match_id": "JP1_590736648",
     "date": "2026-07-01T23:16:43.694000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Ziggs",
     "win": false,
@@ -1041,6 +1062,7 @@
   {
     "match_id": "JP1_590730808",
     "date": "2026-07-01T22:56:21.276000+09:00",
+    "lane": "BOTTOM",
     "champion": "Zeri",
     "opponent": "Aphelios",
     "win": true,
@@ -1078,6 +1100,7 @@
   {
     "match_id": "JP1_590718959",
     "date": "2026-07-01T22:34:18.828000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Jinx",
     "win": true,
@@ -1172,6 +1195,7 @@
   {
     "match_id": "JP1_590709879",
     "date": "2026-07-01T21:48:01.627000+09:00",
+    "lane": "BOTTOM",
     "champion": "Karthus",
     "opponent": "Ashe",
     "win": true,
@@ -1266,6 +1290,7 @@
   {
     "match_id": "JP1_590246224",
     "date": "2026-06-28T17:14:51.511000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Jhin",
     "win": false,
@@ -1325,6 +1350,7 @@
   {
     "match_id": "JP1_590238135",
     "date": "2026-06-28T16:41:48.864000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "AurelionSol",
     "win": false,
@@ -1425,6 +1451,7 @@
   {
     "match_id": "JP1_589744156",
     "date": "2026-06-26T01:36:50.546000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Zeri",
     "win": true,
@@ -1473,6 +1500,7 @@
   {
     "match_id": "JP1_589729474",
     "date": "2026-06-26T00:31:47.262000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Brand",
     "win": true,
@@ -1523,6 +1551,7 @@
   {
     "match_id": "JP1_589717306",
     "date": "2026-06-25T23:56:19.252000+09:00",
+    "lane": "BOTTOM",
     "champion": "Xayah",
     "opponent": "Smolder",
     "win": false,
@@ -1578,6 +1607,7 @@
   {
     "match_id": "JP1_589705591",
     "date": "2026-06-25T23:17:18.561000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Kaisa",
     "win": false,
@@ -1638,6 +1668,7 @@
   {
     "match_id": "JP1_589519024",
     "date": "2026-06-24T23:44:39.071000+09:00",
+    "lane": "BOTTOM",
     "champion": "Jhin",
     "opponent": "Ashe",
     "win": true,
@@ -1678,6 +1709,7 @@
   {
     "match_id": "JP1_589516034",
     "date": "2026-06-24T23:03:01.647000+09:00",
+    "lane": "BOTTOM",
     "champion": "Zeri",
     "opponent": "Twitch",
     "win": true,
@@ -1697,6 +1729,7 @@
   {
     "match_id": "JP1_589514096",
     "date": "2026-06-24T22:52:07.831000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Ezreal",
     "win": true,
@@ -1716,6 +1749,7 @@
   {
     "match_id": "JP1_589505525",
     "date": "2026-06-24T22:44:59.655000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Kaisa",
     "win": true,
@@ -1742,6 +1776,7 @@
   {
     "match_id": "JP1_589494107",
     "date": "2026-06-24T22:11:21.154000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Yunara",
     "win": false,
@@ -1799,6 +1834,7 @@
   {
     "match_id": "JP1_589365418",
     "date": "2026-06-24T00:33:46.646000+09:00",
+    "lane": "BOTTOM",
     "champion": "Mel",
     "opponent": "Ashe",
     "win": true,
@@ -1852,6 +1888,7 @@
   {
     "match_id": "JP1_589358729",
     "date": "2026-06-23T23:59:26.296000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Jhin",
     "win": true,
@@ -1900,6 +1937,7 @@
   {
     "match_id": "JP1_589347971",
     "date": "2026-06-23T23:30:47.757000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Jhin",
     "win": false,
@@ -1959,6 +1997,7 @@
   {
     "match_id": "JP1_589343222",
     "date": "2026-06-23T22:55:50.525000+09:00",
+    "lane": "BOTTOM",
     "champion": "Corki",
     "opponent": "Samira",
     "win": true,
@@ -1987,6 +2026,7 @@
   {
     "match_id": "JP1_589206573",
     "date": "2026-06-22T23:41:05.229000+09:00",
+    "lane": "BOTTOM",
     "champion": "Swain",
     "opponent": "Yunara",
     "win": true,
@@ -2200,6 +2240,7 @@
   {
     "match_id": "JP1_588537744",
     "date": "2026-06-19T01:49:39.393000+09:00",
+    "lane": "MIDDLE",
     "champion": "Naafiri",
     "opponent": "Ahri",
     "win": false,
@@ -2258,6 +2299,7 @@
   {
     "match_id": "JP1_588516249",
     "date": "2026-06-18T23:48:25.325000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Sett",
     "win": false,
@@ -2306,6 +2348,7 @@
   {
     "match_id": "JP1_588509589",
     "date": "2026-06-18T23:21:58.628000+09:00",
+    "lane": "JUNGLE",
     "champion": "Vi",
     "opponent": "Belveth",
     "win": false,
@@ -2380,6 +2423,7 @@
   {
     "match_id": "JP1_588500537",
     "date": "2026-06-18T22:54:31.493000+09:00",
+    "lane": "TOP",
     "champion": "Chogath",
     "opponent": "FiddleSticks",
     "win": false,
@@ -2452,6 +2496,7 @@
   {
     "match_id": "JP1_588382577",
     "date": "2026-06-18T01:12:51.355000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "Caitlyn",
     "win": false,
@@ -2492,6 +2537,7 @@
   {
     "match_id": "JP1_588377161",
     "date": "2026-06-18T00:41:09.185000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Smolder",
     "win": true,
@@ -2552,6 +2598,7 @@
   {
     "match_id": "JP1_587317466",
     "date": "2026-06-12T01:29:40.037000+09:00",
+    "lane": "BOTTOM",
     "champion": "Xayah",
     "opponent": "Kaisa",
     "win": true,
@@ -2611,6 +2658,7 @@
   {
     "match_id": "JP1_587307708",
     "date": "2026-06-12T00:53:21.742000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Ezreal",
     "win": true,
@@ -2649,6 +2697,7 @@
   {
     "match_id": "JP1_587303071",
     "date": "2026-06-12T00:13:28.054000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Ezreal",
     "win": true,
@@ -2694,6 +2743,7 @@
   {
     "match_id": "JP1_587290897",
     "date": "2026-06-11T23:46:46.150000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Caitlyn",
     "win": true,
@@ -2722,6 +2772,7 @@
   {
     "match_id": "JP1_587283984",
     "date": "2026-06-11T23:12:46.961000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Ashe",
     "win": false,
@@ -2765,6 +2816,7 @@
   {
     "match_id": "JP1_586972719",
     "date": "2026-06-09T23:51:14.031000+09:00",
+    "lane": "UTILITY",
     "champion": "Senna",
     "opponent": "Seraphine",
     "win": true,
@@ -2810,6 +2862,7 @@
   {
     "match_id": "JP1_586969033",
     "date": "2026-06-09T23:19:30.122000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Lucian",
     "win": true,
@@ -2839,6 +2892,7 @@
   {
     "match_id": "JP1_586961034",
     "date": "2026-06-09T22:59:01.265000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Ziggs",
     "win": false,
@@ -2877,6 +2931,7 @@
   {
     "match_id": "JP1_586954711",
     "date": "2026-06-09T22:27:17.538000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "Jhin",
     "win": true,
@@ -2921,6 +2976,7 @@
   {
     "match_id": "JP1_586948230",
     "date": "2026-06-09T22:07:11.559000+09:00",
+    "lane": "TOP",
     "champion": "Caitlyn",
     "opponent": "Garen",
     "win": false,
@@ -2971,6 +3027,7 @@
   {
     "match_id": "JP1_586934844",
     "date": "2026-06-09T21:38:43.345000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Kaisa",
     "win": true,
@@ -3051,6 +3108,7 @@
   {
     "match_id": "JP1_586933087",
     "date": "2026-06-09T20:47:16.239000+09:00",
+    "lane": "TOP",
     "champion": "Caitlyn",
     "opponent": "Olaf",
     "win": false,
@@ -3093,6 +3151,7 @@
   {
     "match_id": "JP1_586827830",
     "date": "2026-06-08T23:50:09.832000+09:00",
+    "lane": "MIDDLE",
     "champion": "Mel",
     "opponent": "Zoe",
     "win": true,
@@ -3119,6 +3178,7 @@
   {
     "match_id": "JP1_586815584",
     "date": "2026-06-08T23:23:09.686000+09:00",
+    "lane": "MIDDLE",
     "champion": "Smolder",
     "opponent": "Malzahar",
     "win": false,
@@ -3189,6 +3249,7 @@
   {
     "match_id": "JP1_586807321",
     "date": "2026-06-08T22:39:17.079000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Ezreal",
     "win": true,
@@ -3241,6 +3302,7 @@
   {
     "match_id": "JP1_586323246",
     "date": "2026-06-06T05:09:06.067000+09:00",
+    "lane": "BOTTOM",
     "champion": "Brand",
     "opponent": "Smolder",
     "win": true,
@@ -3319,6 +3381,7 @@
   {
     "match_id": "JP1_586320141",
     "date": "2026-06-06T04:21:24.177000+09:00",
+    "lane": "UTILITY",
     "champion": "Bard",
     "opponent": "Nautilus",
     "win": false,
@@ -3384,6 +3447,7 @@
   {
     "match_id": "JP1_586315487",
     "date": "2026-06-06T03:42:31.869000+09:00",
+    "lane": "UTILITY",
     "champion": "Taric",
     "opponent": "Alistar",
     "win": false,
@@ -3439,6 +3503,7 @@
   {
     "match_id": "JP1_586310641",
     "date": "2026-06-06T03:12:45.773000+09:00",
+    "lane": "UTILITY",
     "champion": "Velkoz",
     "opponent": "Janna",
     "win": false,
@@ -3495,6 +3560,7 @@
   {
     "match_id": "JP1_586304904",
     "date": "2026-06-06T02:31:52.196000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Sett",
     "win": true,
@@ -3544,6 +3610,7 @@
   {
     "match_id": "JP1_586299636",
     "date": "2026-06-06T01:57:42.597000+09:00",
+    "lane": "MIDDLE",
     "champion": "Ahri",
     "opponent": "Mel",
     "win": false,
@@ -3601,6 +3668,7 @@
   {
     "match_id": "JP1_586291220",
     "date": "2026-06-06T01:26:05.868000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Caitlyn",
     "win": true,
@@ -3649,6 +3717,7 @@
   {
     "match_id": "JP1_586242467",
     "date": "2026-06-05T22:22:52.094000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Jhin",
     "win": true,
@@ -3691,6 +3760,7 @@
   {
     "match_id": "JP1_586114763",
     "date": "2026-06-04T23:30:48.363000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Swain",
     "win": true,
@@ -3710,6 +3780,7 @@
   {
     "match_id": "JP1_586102888",
     "date": "2026-06-04T23:08:38.080000+09:00",
+    "lane": "BOTTOM",
     "champion": "Zeri",
     "opponent": "Ziggs",
     "win": true,
@@ -3757,6 +3828,7 @@
   {
     "match_id": "JP1_586093864",
     "date": "2026-06-04T22:25:39.946000+09:00",
+    "lane": "MIDDLE",
     "champion": "Malzahar",
     "opponent": "Vladimir",
     "win": true,
@@ -3811,6 +3883,7 @@
   {
     "match_id": "JP1_586085132",
     "date": "2026-06-04T21:52:59.666000+09:00",
+    "lane": "MIDDLE",
     "champion": "Ahri",
     "opponent": "Belveth",
     "win": true,
@@ -3886,6 +3959,7 @@
   {
     "match_id": "JP1_585819161",
     "date": "2026-06-03T02:31:39.819000+09:00",
+    "lane": "BOTTOM",
     "champion": "Xayah",
     "opponent": "Yasuo",
     "win": false,
@@ -3973,6 +4047,7 @@
   {
     "match_id": "JP1_585778038",
     "date": "2026-06-02T23:11:10.217000+09:00",
+    "lane": "",
     "champion": "Nami",
     "opponent": "Caitlyn",
     "win": true,
@@ -4073,6 +4148,7 @@
   {
     "match_id": "JP1_585762170",
     "date": "2026-06-02T22:37:02.773000+09:00",
+    "lane": "BOTTOM",
     "champion": "Yunara",
     "opponent": "Aphelios",
     "win": false,
@@ -4139,6 +4215,7 @@
   {
     "match_id": "JP1_585751847",
     "date": "2026-06-02T21:50:51.135000+09:00",
+    "lane": "BOTTOM",
     "champion": "Xayah",
     "opponent": "Samira",
     "win": true,
@@ -4197,6 +4274,7 @@
   {
     "match_id": "JP1_585741618",
     "date": "2026-06-02T21:12:12.908000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ziggs",
     "opponent": "Corki",
     "win": true,
@@ -4248,6 +4326,7 @@
   {
     "match_id": "JP1_585636468",
     "date": "2026-06-02T00:20:38.844000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Ezreal",
     "win": true,
@@ -4294,6 +4373,7 @@
   {
     "match_id": "JP1_585628691",
     "date": "2026-06-01T23:39:41.127000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Ashe",
     "win": false,
@@ -4348,6 +4428,7 @@
   {
     "match_id": "JP1_585621407",
     "date": "2026-06-01T23:08:22.545000+09:00",
+    "lane": "BOTTOM",
     "champion": "Corki",
     "opponent": "Caitlyn",
     "win": true,
@@ -4385,6 +4466,7 @@
   {
     "match_id": "JP1_585315911",
     "date": "2026-05-31T03:59:02.144000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Swain",
     "win": true,
@@ -4424,6 +4506,7 @@
   {
     "match_id": "JP1_585310959",
     "date": "2026-05-31T03:27:18.705000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Xayah",
     "win": true,
@@ -4529,6 +4612,7 @@
   {
     "match_id": "JP1_585309058",
     "date": "2026-05-31T02:44:52.809000+09:00",
+    "lane": "TOP",
     "champion": "XinZhao",
     "opponent": "Yasuo",
     "win": false,
@@ -4578,6 +4662,7 @@
   {
     "match_id": "JP1_585299630",
     "date": "2026-05-31T02:23:12.117000+09:00",
+    "lane": "MIDDLE",
     "champion": "Veigar",
     "opponent": "Hwei",
     "win": false,
@@ -4655,6 +4740,7 @@
   {
     "match_id": "JP1_585292158",
     "date": "2026-05-31T01:38:48.881000+09:00",
+    "lane": "TOP",
     "champion": "Varus",
     "opponent": "Irelia",
     "win": false,
@@ -4734,6 +4820,7 @@
   {
     "match_id": "JP1_585283819",
     "date": "2026-05-31T00:57:50.042000+09:00",
+    "lane": "MIDDLE",
     "champion": "Viktor",
     "opponent": "Xerath",
     "win": false,
@@ -4795,6 +4882,7 @@
   {
     "match_id": "JP1_585271590",
     "date": "2026-05-31T00:21:48.489000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Yasuo",
     "win": false,
@@ -4861,6 +4949,7 @@
   {
     "match_id": "JP1_585261275",
     "date": "2026-05-30T23:44:28.660000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Kalista",
     "win": true,
@@ -4917,6 +5006,7 @@
   {
     "match_id": "JP1_585247909",
     "date": "2026-05-30T23:09:28.992000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Smolder",
     "win": false,
@@ -4974,6 +5064,7 @@
   {
     "match_id": "JP1_584856374",
     "date": "2026-05-28T22:21:10.120000+09:00",
+    "lane": "MIDDLE",
     "champion": "Viktor",
     "opponent": "Malphite",
     "win": true,
@@ -4993,6 +5084,7 @@
   {
     "match_id": "JP1_584844865",
     "date": "2026-05-28T21:54:13.716000+09:00",
+    "lane": "BOTTOM",
     "champion": "Corki",
     "opponent": "Tristana",
     "win": true,
@@ -5027,6 +5119,7 @@
   {
     "match_id": "JP1_584833579",
     "date": "2026-05-28T21:17:28.453000+09:00",
+    "lane": "BOTTOM",
     "champion": "Veigar",
     "opponent": "Brand",
     "win": false,
@@ -5086,6 +5179,7 @@
   {
     "match_id": "JP1_584706275",
     "date": "2026-05-27T23:02:15.675000+09:00",
+    "lane": "BOTTOM",
     "champion": "Jhin",
     "opponent": "Ezreal",
     "win": false,
@@ -5124,6 +5218,7 @@
   {
     "match_id": "JP1_584697753",
     "date": "2026-05-27T22:39:18.873000+09:00",
+    "lane": "JUNGLE",
     "champion": "Vi",
     "opponent": "LeeSin",
     "win": false,
@@ -5164,6 +5259,7 @@
   {
     "match_id": "JP1_584689596",
     "date": "2026-05-27T22:13:33.101000+09:00",
+    "lane": "BOTTOM",
     "champion": "Senna",
     "opponent": "Yasuo",
     "win": true,
@@ -5211,6 +5307,7 @@
   {
     "match_id": "JP1_584680312",
     "date": "2026-05-27T21:43:21.076000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Twitch",
     "win": false,
@@ -5280,6 +5377,7 @@
   {
     "match_id": "JP1_584578449",
     "date": "2026-05-27T01:23:36.218000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Ezreal",
     "win": true,
@@ -5308,6 +5406,7 @@
   {
     "match_id": "JP1_584573749",
     "date": "2026-05-27T00:51:21.592000+09:00",
+    "lane": "UTILITY",
     "champion": "Neeko",
     "opponent": "FiddleSticks",
     "win": false,
@@ -5352,6 +5451,7 @@
   {
     "match_id": "JP1_584567991",
     "date": "2026-05-27T00:27:34.370000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Samira",
     "win": true,
@@ -5371,6 +5471,7 @@
   {
     "match_id": "JP1_584553624",
     "date": "2026-05-27T00:02:31.769000+09:00",
+    "lane": "BOTTOM",
     "champion": "KogMaw",
     "opponent": "Varus",
     "win": false,
@@ -5487,6 +5588,7 @@
   {
     "match_id": "JP1_583605170",
     "date": "2026-05-21T22:56:27.720000+09:00",
+    "lane": "BOTTOM",
     "champion": "Caitlyn",
     "opponent": "Corki",
     "win": true,
@@ -5506,6 +5608,7 @@
   {
     "match_id": "JP1_583596855",
     "date": "2026-05-21T22:35:35.901000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Morgana",
     "win": true,
@@ -5525,6 +5628,7 @@
   {
     "match_id": "JP1_583585433",
     "date": "2026-05-21T22:13:57.426000+09:00",
+    "lane": "JUNGLE",
     "champion": "Vi",
     "opponent": "Nidalee",
     "win": true,
@@ -5572,6 +5676,7 @@
   {
     "match_id": "JP1_583578846",
     "date": "2026-05-21T21:33:17.722000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Ashe",
     "win": true,
@@ -5601,6 +5706,7 @@
   {
     "match_id": "JP1_583572978",
     "date": "2026-05-21T21:18:56.082000+09:00",
+    "lane": "",
     "champion": "Galio",
     "opponent": "Hwei",
     "win": false,
@@ -5681,6 +5787,7 @@
   {
     "match_id": "JP1_583478200",
     "date": "2026-05-21T02:27:16.974000+09:00",
+    "lane": "MIDDLE",
     "champion": "Viktor",
     "opponent": "Xerath",
     "win": false,
@@ -5759,6 +5866,7 @@
   {
     "match_id": "JP1_583474821",
     "date": "2026-05-21T01:49:04.441000+09:00",
+    "lane": "UTILITY",
     "champion": "Braum",
     "opponent": "Blitzcrank",
     "win": true,
@@ -5811,6 +5919,7 @@
   {
     "match_id": "JP1_583467663",
     "date": "2026-05-21T01:23:55.442000+09:00",
+    "lane": "MIDDLE",
     "champion": "Mel",
     "opponent": "TwistedFate",
     "win": false,
@@ -5883,6 +5992,7 @@
   {
     "match_id": "JP1_583465123",
     "date": "2026-05-21T00:41:33.582000+09:00",
+    "lane": "TOP",
     "champion": "DrMundo",
     "opponent": "Vi",
     "win": false,
@@ -5925,6 +6035,7 @@
   {
     "match_id": "JP1_583457887",
     "date": "2026-05-21T00:21:48.811000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Jinx",
     "win": true,
@@ -5960,6 +6071,7 @@
   {
     "match_id": "JP1_583413686",
     "date": "2026-05-20T21:56:37.066000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Xayah",
     "win": true,
@@ -6019,6 +6131,7 @@
   {
     "match_id": "JP1_583403776",
     "date": "2026-05-20T21:21:11.290000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Ashe",
     "win": false,
@@ -6082,6 +6195,7 @@
   {
     "match_id": "JP1_583290953",
     "date": "2026-05-20T01:07:37.427000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Sivir",
     "win": false,
@@ -6193,6 +6307,7 @@
   {
     "match_id": "JP1_583287088",
     "date": "2026-05-20T00:13:59.516000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Varus",
     "win": true,
@@ -6221,6 +6336,7 @@
   {
     "match_id": "JP1_583272503",
     "date": "2026-05-19T23:51:38.860000+09:00",
+    "lane": "BOTTOM",
     "champion": "Kaisa",
     "opponent": "Ezreal",
     "win": true,
@@ -6306,6 +6422,7 @@
   {
     "match_id": "JP1_583264920",
     "date": "2026-05-19T23:02:30.822000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Jinx",
     "win": true,
@@ -6460,6 +6577,7 @@
   {
     "match_id": "JP1_582470648",
     "date": "2026-05-15T23:34:43.125000+09:00",
+    "lane": "UTILITY",
     "champion": "Neeko",
     "opponent": "Pantheon",
     "win": true,
@@ -6502,6 +6620,7 @@
   {
     "match_id": "JP1_582303827",
     "date": "2026-05-14T23:54:23.258000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Lux",
     "win": false,
@@ -6579,6 +6698,7 @@
   {
     "match_id": "JP1_582297613",
     "date": "2026-05-14T23:14:31.361000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Jhin",
     "win": true,
@@ -6598,6 +6718,7 @@
   {
     "match_id": "JP1_582288784",
     "date": "2026-05-14T22:52:57.882000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "Varus",
     "win": false,
@@ -6669,6 +6790,7 @@
   {
     "match_id": "JP1_581233169",
     "date": "2026-05-09T05:06:22.908000+09:00",
+    "lane": "BOTTOM",
     "champion": "Corki",
     "opponent": "Ezreal",
     "win": true,
@@ -6724,6 +6846,7 @@
   {
     "match_id": "JP1_581230468",
     "date": "2026-05-09T04:28:10.444000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "Ezreal",
     "win": true,
@@ -6753,6 +6876,7 @@
   {
     "match_id": "JP1_581227465",
     "date": "2026-05-09T04:01:14.709000+09:00",
+    "lane": "MIDDLE",
     "champion": "Swain",
     "opponent": "Yone",
     "win": true,
@@ -6772,6 +6896,7 @@
   {
     "match_id": "JP1_581179137",
     "date": "2026-05-09T00:14:43.790000+09:00",
+    "lane": "MIDDLE",
     "champion": "Viktor",
     "opponent": "Orianna",
     "win": true,
@@ -6798,6 +6923,7 @@
   {
     "match_id": "JP1_581167477",
     "date": "2026-05-08T23:41:11.410000+09:00",
+    "lane": "MIDDLE",
     "champion": "Veigar",
     "opponent": "Sion",
     "win": false,
@@ -6844,6 +6970,7 @@
   {
     "match_id": "JP1_581156174",
     "date": "2026-05-08T23:04:23.714000+09:00",
+    "lane": "MIDDLE",
     "champion": "Vex",
     "opponent": "Viktor",
     "win": false,
@@ -6892,6 +7019,7 @@
   {
     "match_id": "JP1_581142931",
     "date": "2026-05-08T22:23:26.638000+09:00",
+    "lane": "MIDDLE",
     "champion": "Malzahar",
     "opponent": "Diana",
     "win": false,
@@ -6951,6 +7079,7 @@
   {
     "match_id": "JP1_581011979",
     "date": "2026-05-08T00:21:27.832000+09:00",
+    "lane": "MIDDLE",
     "champion": "Ahri",
     "opponent": "AurelionSol",
     "win": true,
@@ -6977,6 +7106,7 @@
   {
     "match_id": "JP1_581004648",
     "date": "2026-05-07T23:53:32.108000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "MissFortune",
     "win": false,
@@ -7031,6 +7161,7 @@
   {
     "match_id": "JP1_580993718",
     "date": "2026-05-07T23:23:14.948000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Kalista",
     "win": false,
@@ -7097,6 +7228,7 @@
   {
     "match_id": "JP1_580982674",
     "date": "2026-05-07T22:43:39.874000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Varus",
     "win": false,
@@ -7205,6 +7337,7 @@
   {
     "match_id": "JP1_580972247",
     "date": "2026-05-07T22:05:16.114000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Smolder",
     "win": false,
@@ -7256,6 +7389,7 @@
   {
     "match_id": "JP1_580863471",
     "date": "2026-05-07T01:57:05.835000+09:00",
+    "lane": "UTILITY",
     "champion": "Neeko",
     "opponent": "Taliyah",
     "win": true,
@@ -7293,6 +7427,7 @@
   {
     "match_id": "JP1_580857304",
     "date": "2026-05-07T01:28:23.378000+09:00",
+    "lane": "MIDDLE",
     "champion": "Malphite",
     "opponent": "Yasuo",
     "win": false,
@@ -7367,6 +7502,7 @@
   {
     "match_id": "JP1_580850236",
     "date": "2026-05-07T00:47:25.804000+09:00",
+    "lane": "TOP",
     "champion": "Chogath",
     "opponent": "Zaahen",
     "win": false,
@@ -7459,6 +7595,7 @@
   {
     "match_id": "JP1_580842105",
     "date": "2026-05-07T00:05:24.815000+09:00",
+    "lane": "UTILITY",
     "champion": "Alistar",
     "opponent": "Nautilus",
     "win": false,
@@ -7496,6 +7633,7 @@
   {
     "match_id": "JP1_580745936",
     "date": "2026-05-06T17:03:29.127000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "Ezreal",
     "win": true,
@@ -7566,6 +7704,7 @@
   {
     "match_id": "JP1_580737700",
     "date": "2026-05-06T16:28:50.701000+09:00",
+    "lane": "BOTTOM",
     "champion": "MissFortune",
     "opponent": "Yunara",
     "win": false,
@@ -7646,6 +7785,7 @@
   {
     "match_id": "JP1_580734540",
     "date": "2026-05-06T15:52:27.226000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ezreal",
     "opponent": "Irelia",
     "win": true,
@@ -7714,6 +7854,7 @@
   {
     "match_id": "JP1_580728437",
     "date": "2026-05-06T15:28:50.811000+09:00",
+    "lane": "BOTTOM",
     "champion": "Yunara",
     "opponent": "Smolder",
     "win": false,
@@ -7770,6 +7911,7 @@
   {
     "match_id": "JP1_580721435",
     "date": "2026-05-06T14:56:08.297000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Brand",
     "win": true,
@@ -7858,6 +8000,7 @@
   {
     "match_id": "JP1_580407622",
     "date": "2026-05-04T23:45:03.282000+09:00",
+    "lane": "UTILITY",
     "champion": "Leona",
     "opponent": "Zilean",
     "win": false,
@@ -7938,6 +8081,7 @@
   {
     "match_id": "JP1_580398160",
     "date": "2026-05-04T23:10:52.671000+09:00",
+    "lane": "UTILITY",
     "champion": "Morgana",
     "opponent": "Braum",
     "win": true,
@@ -8010,6 +8154,7 @@
   {
     "match_id": "JP1_580390491",
     "date": "2026-05-04T22:32:41.535000+09:00",
+    "lane": "UTILITY",
     "champion": "Nami",
     "opponent": "Seraphine",
     "win": true,
@@ -8038,6 +8183,7 @@
   {
     "match_id": "JP1_580385414",
     "date": "2026-05-04T22:07:54.757000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Twitch",
     "win": true,
@@ -8057,6 +8203,7 @@
   {
     "match_id": "JP1_580378103",
     "date": "2026-05-04T21:49:03.384000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "Senna",
     "win": true,
@@ -8108,6 +8255,7 @@
   {
     "match_id": "JP1_580370635",
     "date": "2026-05-04T21:14:31.742000+09:00",
+    "lane": "BOTTOM",
     "champion": "Smolder",
     "opponent": "Ziggs",
     "win": false,
@@ -8167,6 +8315,7 @@
   {
     "match_id": "JP1_580126893",
     "date": "2026-05-03T17:38:57.940000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Brand",
     "win": false,
@@ -8230,6 +8379,7 @@
   {
     "match_id": "JP1_580122762",
     "date": "2026-05-03T17:02:10.668000+09:00",
+    "lane": "BOTTOM",
     "champion": "Mel",
     "opponent": "Ashe",
     "win": true,
@@ -8272,6 +8422,7 @@
   {
     "match_id": "JP1_580118549",
     "date": "2026-05-03T16:35:08.632000+09:00",
+    "lane": "BOTTOM",
     "champion": "Varus",
     "opponent": "Aphelios",
     "win": true,
@@ -8312,6 +8463,7 @@
   {
     "match_id": "JP1_580112420",
     "date": "2026-05-03T16:05:58.866000+09:00",
+    "lane": "UTILITY",
     "champion": "Lulu",
     "opponent": "Braum",
     "win": false,
@@ -8370,6 +8522,7 @@
   {
     "match_id": "JP1_580104305",
     "date": "2026-05-03T15:18:43.203000+09:00",
+    "lane": "UTILITY",
     "champion": "Neeko",
     "opponent": "Velkoz",
     "win": true,
@@ -8423,6 +8576,7 @@
   {
     "match_id": "JP1_579822889",
     "date": "2026-05-02T02:12:27.937000+09:00",
+    "lane": "BOTTOM",
     "champion": "Sivir",
     "opponent": "Ezreal",
     "win": false,
@@ -8512,6 +8666,895 @@
           "Bard"
         ],
         "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584544002",
+    "date": "2026-05-26T23:09:30.584000+09:00",
+    "lane": "JUNGLE",
+    "champion": "Vi",
+    "opponent": "Udyr",
+    "win": true,
+    "kills": 4,
+    "deaths": 3,
+    "assists": 13,
+    "cs_per_min": 4.9,
+    "damage_share": 14.9,
+    "gold_efficiency": 1398,
+    "gd15": -1100,
+    "csd15": -49,
+    "game_duration_min": 33,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Caitlyn",
+        "assist_champions": [
+          "Renekton",
+          "Mel"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Renekton",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Renekton",
+        "assist_champions": [
+          "Udyr",
+          "Cassiopeia",
+          "Caitlyn",
+          "Mel"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584535466",
+    "date": "2026-05-26T22:28:57.259000+09:00",
+    "lane": "UTILITY",
+    "champion": "Bard",
+    "opponent": "Lulu",
+    "win": false,
+    "kills": 0,
+    "deaths": 3,
+    "assists": 1,
+    "cs_per_min": 0.6,
+    "damage_share": 16.9,
+    "gold_efficiency": 1030,
+    "gd15": -476,
+    "csd15": -7,
+    "game_duration_min": 18,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Lulu"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Nidalee",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Nidalee",
+        "assist_champions": [
+          "Yunara",
+          "Lulu"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584530437",
+    "date": "2026-05-26T22:03:55.574000+09:00",
+    "lane": "UTILITY",
+    "champion": "Braum",
+    "opponent": "Nautilus",
+    "win": false,
+    "kills": 0,
+    "deaths": 2,
+    "assists": 4,
+    "cs_per_min": 0.9,
+    "damage_share": 16.8,
+    "gold_efficiency": 1421,
+    "gd15": -808,
+    "csd15": -5,
+    "game_duration_min": 17,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Nautilus",
+        "assist_champions": [
+          "FiddleSticks",
+          "KogMaw"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "KogMaw",
+        "assist_champions": [
+          "FiddleSticks",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584025896",
+    "date": "2026-05-24T00:49:02.207000+09:00",
+    "lane": "TOP",
+    "champion": "Swain",
+    "opponent": "Malphite",
+    "win": true,
+    "kills": 2,
+    "deaths": 3,
+    "assists": 16,
+    "cs_per_min": 6.9,
+    "damage_share": 17.5,
+    "gold_efficiency": 2111,
+    "gd15": 255,
+    "csd15": 21,
+    "game_duration_min": 30,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 22,
+        "killer_champion": "Malphite",
+        "assist_champions": [
+          "Naafiri",
+          "Galio",
+          "Caitlyn"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Naafiri",
+        "assist_champions": [
+          "Malphite",
+          "Galio",
+          "Caitlyn",
+          "Karma"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Naafiri",
+        "assist_champions": [
+          "Galio"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584015574",
+    "date": "2026-05-24T00:14:07.802000+09:00",
+    "lane": "TOP",
+    "champion": "Sion",
+    "opponent": "Rumble",
+    "win": false,
+    "kills": 2,
+    "deaths": 4,
+    "assists": 4,
+    "cs_per_min": 6.4,
+    "damage_share": 12.9,
+    "gold_efficiency": 1039,
+    "gd15": -360,
+    "csd15": -21,
+    "game_duration_min": 31,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 20,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Rumble",
+          "Yuumi"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Rumble",
+        "assist_champions": [
+          "Qiyana"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Qiyana",
+        "assist_champions": [
+          "Rumble",
+          "XinZhao",
+          "Varus",
+          "Yuumi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 30,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Rumble",
+          "Yuumi"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_584007223",
+    "date": "2026-05-23T23:29:28.642000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Varus",
+    "opponent": "Kalista",
+    "win": true,
+    "kills": 7,
+    "deaths": 0,
+    "assists": 13,
+    "cs_per_min": 8.2,
+    "damage_share": 32.6,
+    "gold_efficiency": 1637,
+    "gd15": 2399,
+    "csd15": 31,
+    "game_duration_min": 16,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_583830888",
+    "date": "2026-05-23T02:51:29.820000+09:00",
+    "lane": "",
+    "champion": "Kayn",
+    "opponent": "Karthus",
+    "win": true,
+    "kills": 17,
+    "deaths": 5,
+    "assists": 22,
+    "cs_per_min": 0.0,
+    "damage_share": 16.2,
+    "gold_efficiency": 5270,
+    "gd15": 502,
+    "csd15": 0,
+    "game_duration_min": 26,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Zaahen",
+        "assist_champions": [
+          "Singed",
+          "Sett"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Zaahen",
+        "assist_champions": [
+          "Lux"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Singed",
+        "assist_champions": [
+          "Zaahen",
+          "Sett"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Lux",
+        "assist_champions": [
+          "Zaahen"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Singed",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583826447",
+    "date": "2026-05-23T02:17:28.836000+09:00",
+    "lane": "",
+    "champion": "Evelynn",
+    "opponent": "AurelionSol",
+    "win": false,
+    "kills": 4,
+    "deaths": 7,
+    "assists": 4,
+    "cs_per_min": 0.0,
+    "damage_share": 15.2,
+    "gold_efficiency": 1886,
+    "gd15": -562,
+    "csd15": -2,
+    "game_duration_min": 25,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Seraphine",
+        "assist_champions": [
+          "Hwei",
+          "Milio"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Mel",
+        "assist_champions": [
+          "Ashe"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Jax",
+        "assist_champions": [
+          "AurelionSol",
+          "Aurora"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Jinx",
+        "assist_champions": [
+          "Brand",
+          "Malphite"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Akali",
+        "assist_champions": [
+          "Taliyah",
+          "KSante"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Milio",
+        "assist_champions": [
+          "Seraphine",
+          "Hwei"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Jinx",
+          "Malphite"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583823414",
+    "date": "2026-05-23T01:57:33.880000+09:00",
+    "lane": "",
+    "champion": "Sett",
+    "opponent": "Kassadin",
+    "win": false,
+    "kills": 0,
+    "deaths": 4,
+    "assists": 4,
+    "cs_per_min": 0.0,
+    "damage_share": 9.6,
+    "gold_efficiency": 2237,
+    "gd15": -3149,
+    "csd15": 0,
+    "game_duration_min": 20,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 1,
+        "killer_champion": "Zoe",
+        "assist_champions": [
+          "Hwei",
+          "Caitlyn"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 4,
+        "killer_champion": "Veigar",
+        "assist_champions": [
+          "Sion",
+          "Rammus"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Cassiopeia",
+        "assist_champions": [
+          "Ambessa",
+          "Zoe"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Sett",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583819285",
+    "date": "2026-05-23T01:45:49.933000+09:00",
+    "lane": "",
+    "champion": "Kindred",
+    "opponent": "Rell",
+    "win": false,
+    "kills": 0,
+    "deaths": 6,
+    "assists": 1,
+    "cs_per_min": 0.0,
+    "damage_share": 5.7,
+    "gold_efficiency": 1481,
+    "gd15": -3253,
+    "csd15": 0,
+    "game_duration_min": 24,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 1,
+        "killer_champion": "Ziggs",
+        "assist_champions": [
+          "Rell",
+          "Ashe"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 4,
+        "killer_champion": "Diana",
+        "assist_champions": [
+          "Zaahen",
+          "Aatrox"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Jinx",
+          "Rell"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Khazix",
+        "assist_champions": [
+          "Rell",
+          "Velkoz"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Corki",
+        "assist_champions": [
+          "Rumble",
+          "Kayle"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Rell",
+        "assist_champions": [
+          "Ziggs"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583812504",
+    "date": "2026-05-23T01:17:20.715000+09:00",
+    "lane": "",
+    "champion": "Zilean",
+    "opponent": "Camille",
+    "win": false,
+    "kills": 3,
+    "deaths": 9,
+    "assists": 10,
+    "cs_per_min": 0.0,
+    "damage_share": 7.4,
+    "gold_efficiency": 1220,
+    "gd15": -251,
+    "csd15": 0,
+    "game_duration_min": 22,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Azir",
+        "assist_champions": [
+          "Senna"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Pyke",
+        "assist_champions": [
+          "Viego"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 7,
+        "killer_champion": "Akshan",
+        "assist_champions": [
+          "Ashe"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Belveth",
+        "assist_champions": [
+          "Akshan"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 9,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Camille",
+          "Zaahen"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Azir",
+        "assist_champions": [
+          "Senna",
+          "Aatrox"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Singed",
+        "assist_champions": [
+          "Belveth"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Zaahen",
+        "assist_champions": [
+          "Camille",
+          "Riven"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "Zaahen",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583793153",
+    "date": "2026-05-23T00:05:31.053000+09:00",
+    "lane": "",
+    "champion": "Rell",
+    "opponent": "AurelionSol",
+    "win": false,
+    "kills": 0,
+    "deaths": 7,
+    "assists": 14,
+    "cs_per_min": 0.0,
+    "damage_share": 7.0,
+    "gold_efficiency": 1175,
+    "gd15": -502,
+    "csd15": 0,
+    "game_duration_min": 22,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Taric",
+        "assist_champions": [
+          "Tryndamere",
+          "Volibear"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 4,
+        "killer_champion": "Lux",
+        "assist_champions": [
+          "Rell",
+          "Rengar"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Ryze",
+        "assist_champions": [
+          "MasterYi",
+          "Ambessa"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "AurelionSol",
+        "assist_champions": [
+          "Rumble",
+          "Yunara"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 10,
+        "killer_champion": "Brand",
+        "assist_champions": [
+          "Thresh",
+          "AurelionSol"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Volibear",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "AurelionSol",
+        "assist_champions": [
+          "Rumble",
+          "Yunara"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583618260",
+    "date": "2026-05-22T00:03:21.377000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Varus",
+    "opponent": "Kaisa",
+    "win": true,
+    "kills": 15,
+    "deaths": 4,
+    "assists": 8,
+    "cs_per_min": 8.6,
+    "damage_share": 32.0,
+    "gold_efficiency": 2505,
+    "gd15": -167,
+    "csd15": -1,
+    "game_duration_min": 37,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Kaisa",
+        "assist_champions": [
+          "Anivia"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Sylas",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Jax",
+          "Kaisa",
+          "Anivia"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Sylas",
+          "Kaisa"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_583609753",
+    "date": "2026-05-21T23:18:27.940000+09:00",
+    "lane": "TOP",
+    "champion": "Sion",
+    "opponent": "Chogath",
+    "win": false,
+    "kills": 0,
+    "deaths": 2,
+    "assists": 1,
+    "cs_per_min": 6.7,
+    "damage_share": 25.3,
+    "gold_efficiency": 1757,
+    "gd15": -204,
+    "csd15": 1,
+    "game_duration_min": 16,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Chogath",
+        "assist_champions": [
+          "Sejuani"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Chogath",
+        "assist_champions": [
+          "Sejuani",
+          "Talon"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580140703",
+    "date": "2026-05-03T18:39:33.543000+09:00",
+    "lane": "UTILITY",
+    "champion": "Leona",
+    "opponent": "Bard",
+    "win": false,
+    "kills": 2,
+    "deaths": 2,
+    "assists": 1,
+    "cs_per_min": 0.6,
+    "damage_share": 13.8,
+    "gold_efficiency": 898,
+    "gd15": -624,
+    "csd15": 2,
+    "game_duration_min": 16,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Ambessa",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_580134475",
+    "date": "2026-05-03T18:13:04.534000+09:00",
+    "lane": "UTILITY",
+    "champion": "Senna",
+    "opponent": "Bard",
+    "win": true,
+    "kills": 3,
+    "deaths": 4,
+    "assists": 29,
+    "cs_per_min": 0.7,
+    "damage_share": 8.6,
+    "gold_efficiency": 923,
+    "gd15": 808,
+    "csd15": 0,
+    "game_duration_min": 29,
+    "solo_kills": 0,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Yunara",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Unknown",
+        "assist_champions": [],
+        "cause": "その他"
       }
     ]
   }
