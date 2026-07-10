@@ -9891,5 +9891,183 @@
         "cause": "集団戦"
       }
     ]
+  },
+  {
+    "match_id": "JP1_592071674",
+    "date": "2026-07-10T22:55:25.509000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Senna",
+    "opponent": "Jhin",
+    "win": false,
+    "kills": 11,
+    "deaths": 5,
+    "assists": 11,
+    "cs_per_min": 6.6,
+    "damage_share": 36.8,
+    "gold_efficiency": 2667,
+    "gd15": 543,
+    "csd15": -1,
+    "game_duration_min": 35,
+    "damage_per_min": 1266,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Akshan",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Jhin",
+        "assist_champions": [
+          "Bard"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Jhin",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Akshan",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 34,
+        "killer_champion": "Akshan",
+        "assist_champions": [
+          "Illaoi",
+          "Jhin",
+          "Bard"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592081886",
+    "date": "2026-07-10T23:58:13.210000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Seraphine",
+    "opponent": "Hwei",
+    "win": false,
+    "kills": 7,
+    "deaths": 5,
+    "assists": 18,
+    "cs_per_min": 6.5,
+    "damage_share": 22.5,
+    "gold_efficiency": 2005,
+    "gd15": 571,
+    "csd15": 12,
+    "game_duration_min": 52,
+    "damage_per_min": 793,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 23,
+        "killer_champion": "Riven",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Hwei",
+          "Poppy"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 41,
+        "killer_champion": "Riven",
+        "assist_champions": [
+          "Graves",
+          "Vex",
+          "Poppy"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 46,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Vex"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 51,
+        "killer_champion": "Vex",
+        "assist_champions": [
+          "Hwei"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592096995",
+    "date": "2026-07-11T00:37:52.128000+09:00",
+    "lane": "BOTTOM",
+    "champion": "MissFortune",
+    "opponent": "Hwei",
+    "win": true,
+    "kills": 9,
+    "deaths": 4,
+    "assists": 8,
+    "cs_per_min": 6.6,
+    "damage_share": 28.1,
+    "gold_efficiency": 1967,
+    "gd15": -292,
+    "csd15": -10,
+    "game_duration_min": 30,
+    "damage_per_min": 918,
+    "solo_kills": 2,
+    "first_blood": true,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Locke",
+        "assist_champions": [
+          "Hwei"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Locke"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Locke",
+        "assist_champions": [
+          "Hwei"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Mel",
+        "assist_champions": [
+          "Locke"
+        ],
+        "cause": "集団戦"
+      }
+    ]
   }
 ]
