@@ -77,14 +77,4 @@ jobs:
         if: github.event_name == 'workflow_dispatch'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: |
-          CHAMPION_ARG=""
-          if [ -n "${{ github.event.inputs.champion }}" ]; then
-            CHAMPION_ARG="--champion ${{ github.event.inputs.champion }}"
-          fi
-          python report.py \
-            --queue ${{ github.event.inputs.queue }} \
-            --lane  ${{ github.event.inputs.lane }} \
-            --days  ${{ github.event.inputs.days }} \
-            --min-games ${{ github.event.inputs.min_games }} \
-            $CHAMPION_ARG
+        run: python report.py --queue "${{ github.event.inputs.queue }}" --lane "${{ github.event.inputs.lane }}" --days "${{ github.event.inputs.days }}" --min-games "${{ github.event.inputs.min_games }}" --champion "${{ github.event.inputs.champion }}"
