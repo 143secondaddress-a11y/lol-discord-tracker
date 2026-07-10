@@ -1,0 +1,68 @@
+name: LoL Match Report
+
+on:
+  # 毎週月曜 9:00 JST に自動実行（= 日曜 0:00 UTC）
+  schedule:
+    - cron: "0 0 * * 1"
+  # 手動実行（キューや期間を自由に指定できる）
+  workflow_dispatch:
+    inputs:
+      queue:
+        description: "集計対象"
+        required: true
+        default: "ranked"
+        type: choice
+        options:
+          - ranked        # ランクのみ（ソロ/デュオ＋フレックス合算）
+          - ranked_solo   # ランク ソロ/デュオのみ
+          - ranked_flex   # ランク フレックスのみ
+          - all           # ランク＋ノーマル全キュー
+          - normal        # ノーマルのみ
+      days:
+        description: "集計期間（日）"
+        required: false
+        default: "30"
+      min_games:
+        description: "マッチアップ最低試合数"
+        required: false
+        default: "3"
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 毎週自動実行：ランクのみ と 全キュー の2本を連続投稿
+      - name: Run report (scheduled — ranked only)
+        if: github.event_name == 'schedule'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python report.py --queue ranked --days 30
+
+      - name: Run report (scheduled — all queues)
+        if: github.event_name == 'schedule'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python report.py --queue all --days 30
+
+      - name: Run report (manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: >
+          python report.py
+          --queue ${{ github.event.inputs.queue }}
+          --days ${{ github.event.inputs.days }}
+          --min-games ${{ github.event.inputs.min_games }}
