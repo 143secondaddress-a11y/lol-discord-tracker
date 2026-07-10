@@ -614,6 +614,8 @@ def main():
 
     summoner_name = f"{GAME_NAME}#{TAG_LINE}"
 
+    success_count = 0
+
     for match_id in reversed(new_ids):
         try:
             match = get_match(match_id)
@@ -621,15 +623,14 @@ def main():
             comps = extract_team_comps(match, puuid)
             checkpoints = get_checkpoints(stats["game_sec"])
 
-            # participantId → championName マッピング（デス分類用）
             pid_to_champion = {
                 p["participantId"]: p["championName"]
                 for p in match["info"]["participants"]
             }
 
             try:
-                timeline    = get_timeline(match_id)
-                cp_data     = extract_timeline_stats(
+                timeline      = get_timeline(match_id)
+                cp_data       = extract_timeline_stats(
                     timeline,
                     stats["participant_id"],
                     stats["opponent_pid"],
@@ -652,9 +653,8 @@ def main():
 
             post_to_discord(stats, comps, cp_data, solo_kills, rank_str, summoner_name)
 
-            # stats 保存（solo_kills を record に反映）
-            record_patch = save_match_record(stats, cp_data, deaths_detail)
-            # solo_kills を後付けで更新
+            # stats 保存
+            save_match_record(stats, cp_data, deaths_detail)
             queue_key = QUEUE_FILE_MAP.get(stats["queue_id"], "normal")
             records   = load_stats(queue_key)
             for r in records:
@@ -663,12 +663,16 @@ def main():
                     break
             save_stats(queue_key, records)
 
+            success_count += 1
             time.sleep(1.5)
         except Exception as e:
             print(f"[Tracker] {match_id} の処理失敗: {e}")
 
-    save_last_match_id(match_ids[0])
-    print("[Tracker] 完了")
+    # 1件でも成功した場合のみ最新IDを記録する
+    if success_count > 0:
+        save_last_match_id(match_ids[0])
+
+    print(f"[Tracker] 完了（{success_count}/{len(new_ids)} 件成功）")
 
 
 if __name__ == "__main__":
