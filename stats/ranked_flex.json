@@ -1,0 +1,245 @@
+[
+  {
+    "match_id": "JP1_591519143",
+    "date": "2026-07-06T22:02:16.300000+09:00",
+    "champion": "Xerath",
+    "opponent": "Viktor",
+    "win": false,
+    "kills": 3,
+    "deaths": 4,
+    "assists": 5,
+    "cs_per_min": 6.3,
+    "damage_share": 30.5,
+    "gold_efficiency": 2348,
+    "gd15": -481,
+    "csd15": -18,
+    "game_duration_min": 27,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Kayn",
+        "assist_champions": [
+          "Viktor"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Zilean",
+        "assist_champions": [
+          "Viktor",
+          "Swain"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Vayne",
+        "assist_champions": [
+          "Zilean"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Viktor",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_590128566",
+    "date": "2026-06-28T00:52:43.568000+09:00",
+    "champion": "MissFortune",
+    "opponent": "Ashe",
+    "win": true,
+    "kills": 13,
+    "deaths": 6,
+    "assists": 9,
+    "cs_per_min": 7.2,
+    "damage_share": 27.4,
+    "gold_efficiency": 2360,
+    "gd15": 321,
+    "csd15": -1,
+    "game_duration_min": 41,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Sion",
+        "assist_champions": [
+          "Zyra",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Sion",
+        "assist_champions": [
+          "Zyra",
+          "Ahri"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Sion",
+          "Zyra",
+          "Ahri",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 27,
+        "killer_champion": "Ahri",
+        "assist_champions": [
+          "Zyra",
+          "Ashe",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 40,
+        "killer_champion": "Sion",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_590119093",
+    "date": "2026-06-28T00:06:15.074000+09:00",
+    "champion": "Ashe",
+    "opponent": "Kaisa",
+    "win": true,
+    "kills": 5,
+    "deaths": 7,
+    "assists": 11,
+    "cs_per_min": 6.6,
+    "damage_share": 24.3,
+    "gold_efficiency": 1717,
+    "gd15": -1450,
+    "csd15": -25,
+    "game_duration_min": 31,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Talon",
+        "assist_champions": [
+          "Kaisa",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Nautilus",
+        "assist_champions": [
+          "Kaisa"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Kaisa",
+        "assist_champions": [
+          "Talon",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Talon",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Neeko",
+        "assist_champions": [
+          "Talon",
+          "Kaisa"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Kaisa",
+        "assist_champions": [
+          "Neeko"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Kaisa",
+        "assist_champions": [
+          "Nautilus"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_590107355",
+    "date": "2026-06-27T23:30:24.240000+09:00",
+    "champion": "Ziggs",
+    "opponent": "MissFortune",
+    "win": true,
+    "kills": 6,
+    "deaths": 2,
+    "assists": 13,
+    "cs_per_min": 7.7,
+    "damage_share": 31.9,
+    "gold_efficiency": 2304,
+    "gd15": -1196,
+    "csd15": -7,
+    "game_duration_min": 32,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Shen",
+          "Seraphine"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Shen",
+          "MonkeyKing",
+          "Velkoz",
+          "Seraphine"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  }
+]
