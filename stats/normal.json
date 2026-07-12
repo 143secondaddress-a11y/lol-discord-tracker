@@ -2106,6 +2106,7 @@
   {
     "match_id": "JP1_589199381",
     "date": "2026-06-22T23:11:07.479000+09:00",
+    "lane": "BOTTOM",
     "champion": "Ashe",
     "opponent": "Tristana",
     "win": true,
@@ -2118,6 +2119,7 @@
     "gd15": 872,
     "csd15": 2,
     "game_duration_min": 27,
+    "damage_per_min": 615,
     "solo_kills": 1,
     "first_blood": false,
     "deaths_detail": [
@@ -10560,6 +10562,38 @@
           "Leona"
         ],
         "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_588694903",
+    "date": "2026-06-20T01:44:33.318000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Brand",
+    "opponent": "Yunara",
+    "win": true,
+    "kills": 3,
+    "deaths": 1,
+    "assists": 8,
+    "cs_per_min": 6.4,
+    "damage_share": 20.6,
+    "gold_efficiency": 1191,
+    "gd15": 1844,
+    "csd15": 10,
+    "game_duration_min": 18,
+    "damage_per_min": 517,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 17,
+        "killer_champion": "Evelynn",
+        "assist_champions": [
+          "Urgot",
+          "Yunara",
+          "Yuumi"
+        ],
+        "cause": "ガンク"
       }
     ]
   }
