@@ -1083,5 +1083,70 @@
         "cause": "集団戦"
       }
     ]
+  },
+  {
+    "match_id": "JP1_592442386",
+    "date": "2026-07-12T23:29:27.536000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Karthus",
+    "opponent": "Smolder",
+    "win": true,
+    "kills": 6,
+    "deaths": 3,
+    "assists": 12,
+    "cs_per_min": 7.6,
+    "damage_share": 19.6,
+    "gold_efficiency": 1607,
+    "gd15": 1269,
+    "csd15": -10,
+    "game_duration_min": 25,
+    "damage_per_min": 757,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 5,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "DrMundo"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 8,
+        "killer_champion": "Graves",
+        "assist_champions": [
+          "DrMundo"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Graves",
+        "assist_champions": [],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592454890",
+    "date": "2026-07-13T00:30:09.318000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Swain",
+    "opponent": "Ziggs",
+    "win": true,
+    "kills": 6,
+    "deaths": 0,
+    "assists": 8,
+    "cs_per_min": 7.3,
+    "damage_share": 15.7,
+    "gold_efficiency": 1502,
+    "gd15": -85,
+    "csd15": -26,
+    "game_duration_min": 23,
+    "damage_per_min": 631,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": []
   }
 ]
