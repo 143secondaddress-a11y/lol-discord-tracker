@@ -10322,5 +10322,245 @@
         "cause": "レーンキル"
       }
     ]
+  },
+  {
+    "match_id": "JP1_592245109",
+    "date": "2026-07-11T22:25:39.033000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Ahri",
+    "opponent": "Locke",
+    "win": false,
+    "kills": 4,
+    "deaths": 3,
+    "assists": 6,
+    "cs_per_min": 5.7,
+    "damage_share": 29.3,
+    "gold_efficiency": 1895,
+    "gd15": -1441,
+    "csd15": -18,
+    "game_duration_min": 26,
+    "damage_per_min": 663,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Locke",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Locke",
+          "Seraphine"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 25,
+        "killer_champion": "Ashe",
+        "assist_champions": [
+          "Nautilus",
+          "Seraphine"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592253021",
+    "date": "2026-07-11T22:54:59.577000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Viktor",
+    "opponent": "Vex",
+    "win": false,
+    "kills": 1,
+    "deaths": 6,
+    "assists": 1,
+    "cs_per_min": 6.2,
+    "damage_share": 19.7,
+    "gold_efficiency": 1789,
+    "gd15": -1106,
+    "csd15": -25,
+    "game_duration_min": 23,
+    "damage_per_min": 515,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Vex",
+        "assist_champions": [
+          "Fiora",
+          "Bard"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Vex",
+        "assist_champions": [
+          "Graves",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Vex",
+        "assist_champions": [
+          "Graves",
+          "Bard"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Bard",
+        "assist_champions": [
+          "Fiora"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 21,
+        "killer_champion": "Fiora",
+        "assist_champions": [],
+        "cause": "その他"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Fiora",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592261136",
+    "date": "2026-07-11T23:32:06.085000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Malzahar",
+    "opponent": "Ryze",
+    "win": true,
+    "kills": 13,
+    "deaths": 1,
+    "assists": 9,
+    "cs_per_min": 8.0,
+    "damage_share": 29.7,
+    "gold_efficiency": 2442,
+    "gd15": 1479,
+    "csd15": 29,
+    "game_duration_min": 31,
+    "damage_per_min": 1323,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 20,
+        "killer_champion": "Ryze",
+        "assist_champions": [
+          "Sejuani",
+          "Ivern",
+          "Ashe",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592268810",
+    "date": "2026-07-12T00:39:33.804000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Veigar",
+    "opponent": "Viktor",
+    "win": true,
+    "kills": 19,
+    "deaths": 8,
+    "assists": 15,
+    "cs_per_min": 6.1,
+    "damage_share": 28.3,
+    "gold_efficiency": 3116,
+    "gd15": -878,
+    "csd15": -33,
+    "game_duration_min": 58,
+    "damage_per_min": 1331,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 13,
+        "killer_champion": "Viktor",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 18,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Viktor",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Sylas",
+          "Leona"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 32,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Jayce",
+          "Viktor",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 36,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Viktor",
+          "MissFortune"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 44,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "Viktor",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 47,
+        "killer_champion": "MissFortune",
+        "assist_champions": [
+          "Jayce",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 51,
+        "killer_champion": "Jayce",
+        "assist_champions": [
+          "MissFortune",
+          "Leona"
+        ],
+        "cause": "集団戦"
+      }
+    ]
   }
 ]
