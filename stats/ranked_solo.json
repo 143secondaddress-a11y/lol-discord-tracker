@@ -1148,5 +1148,81 @@
     "solo_kills": 0,
     "first_blood": false,
     "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_592459895",
+    "date": "2026-07-13T00:54:45.218000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Karthus",
+    "opponent": "Samira",
+    "win": false,
+    "kills": 3,
+    "deaths": 7,
+    "assists": 8,
+    "cs_per_min": 6.8,
+    "damage_share": 29.0,
+    "gold_efficiency": 2530,
+    "gd15": -1241,
+    "csd15": -2,
+    "game_duration_min": 21,
+    "damage_per_min": 1019,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Samira",
+        "assist_champions": [
+          "Pantheon"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 6,
+        "killer_champion": "Pantheon",
+        "assist_champions": [
+          "Samira"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Pantheon",
+        "assist_champions": [
+          "Samira"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Samira",
+        "assist_champions": [
+          "MonkeyKing",
+          "Vladimir"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Samira",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Samira",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 19,
+        "killer_champion": "Aatrox",
+        "assist_champions": [
+          "Vladimir",
+          "Samira"
+        ],
+        "cause": "集団戦"
+      }
+    ]
   }
 ]

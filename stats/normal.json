@@ -10596,5 +10596,198 @@
         "cause": "ガンク"
       }
     ]
+  },
+  {
+    "match_id": "JP1_592465359",
+    "date": "2026-07-13T01:22:45.675000+09:00",
+    "lane": "UTILITY",
+    "champion": "Rell",
+    "opponent": "Shen",
+    "win": true,
+    "kills": 4,
+    "deaths": 1,
+    "assists": 9,
+    "cs_per_min": 0.6,
+    "damage_share": 11.1,
+    "gold_efficiency": 814,
+    "gd15": 68,
+    "csd15": -9,
+    "game_duration_min": 19,
+    "damage_per_min": 287,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Jinx",
+        "assist_champions": [
+          "Shen"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592468409",
+    "date": "2026-07-13T01:58:18.992000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Mel",
+    "opponent": "Caitlyn",
+    "win": true,
+    "kills": 18,
+    "deaths": 2,
+    "assists": 6,
+    "cs_per_min": 7.6,
+    "damage_share": 35.3,
+    "gold_efficiency": 2175,
+    "gd15": 45,
+    "csd15": -31,
+    "game_duration_min": 29,
+    "damage_per_min": 1269,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 7,
+        "killer_champion": "Khazix",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 12,
+        "killer_champion": "Caitlyn",
+        "assist_champions": [
+          "Morgana"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592470809",
+    "date": "2026-07-13T02:26:33.421000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Sivir",
+    "opponent": "Varus",
+    "win": false,
+    "kills": 7,
+    "deaths": 5,
+    "assists": 3,
+    "cs_per_min": 7.3,
+    "damage_share": 28.5,
+    "gold_efficiency": 1915,
+    "gd15": 1057,
+    "csd15": 17,
+    "game_duration_min": 24,
+    "damage_per_min": 827,
+    "solo_kills": 1,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 3,
+        "killer_champion": "Sejuani",
+        "assist_champions": [
+          "Varus",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 16,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Nautilus"
+        ],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Sejuani",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 22,
+        "killer_champion": "Hwei",
+        "assist_champions": [
+          "Sejuani",
+          "Varus",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 23,
+        "killer_champion": "Varus",
+        "assist_champions": [
+          "Sejuani",
+          "Hwei",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592475239",
+    "date": "2026-07-13T02:56:00.124000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Karthus",
+    "opponent": "Nunu",
+    "win": true,
+    "kills": 18,
+    "deaths": 5,
+    "assists": 10,
+    "cs_per_min": 6.0,
+    "damage_share": 48.8,
+    "gold_efficiency": 2462,
+    "gd15": 3641,
+    "csd15": 27,
+    "game_duration_min": 20,
+    "damage_per_min": 1534,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 4,
+        "killer_champion": "Nunu",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 11,
+        "killer_champion": "Thresh",
+        "assist_champions": [
+          "MasterYi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Nunu",
+        "assist_champions": [
+          "MasterYi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "MasterYi",
+        "assist_champions": [
+          "Nunu",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Rumble",
+        "assist_champions": [],
+        "cause": "その他"
+      }
+    ]
   }
 ]
