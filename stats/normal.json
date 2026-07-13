@@ -10789,5 +10789,171 @@
         "cause": "その他"
       }
     ]
+  },
+  {
+    "match_id": "JP1_592552827",
+    "date": "2026-07-13T22:28:58.872000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Ahri",
+    "opponent": "Veigar",
+    "win": false,
+    "kills": 10,
+    "deaths": 5,
+    "assists": 16,
+    "cs_per_min": 6.8,
+    "damage_share": 27.2,
+    "gold_efficiency": 3123,
+    "gd15": 861,
+    "csd15": 16,
+    "game_duration_min": 43,
+    "damage_per_min": 1277,
+    "solo_kills": 3,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 21,
+        "killer_champion": "Veigar",
+        "assist_champions": [
+          "MasterYi"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 26,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 28,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Veigar",
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      },
+      {
+        "time_min": 34,
+        "killer_champion": "Veigar",
+        "assist_champions": [
+          "Illaoi",
+          "MasterYi",
+          "Thresh"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 37,
+        "killer_champion": "Kalista",
+        "assist_champions": [
+          "Illaoi",
+          "Thresh"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592565184",
+    "date": "2026-07-13T23:12:02.375000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Malzahar",
+    "opponent": "Viktor",
+    "win": true,
+    "kills": 5,
+    "deaths": 3,
+    "assists": 6,
+    "cs_per_min": 9.8,
+    "damage_share": 26.4,
+    "gold_efficiency": 1643,
+    "gd15": -63,
+    "csd15": 4,
+    "game_duration_min": 38,
+    "damage_per_min": 747,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Viktor",
+        "assist_champions": [
+          "Urgot",
+          "Nautilus"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 31,
+        "killer_champion": "Viktor",
+        "assist_champions": [
+          "Urgot"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 37,
+        "killer_champion": "Gnar",
+        "assist_champions": [
+          "MissFortune",
+          "Nautilus"
+        ],
+        "cause": "集団戦"
+      }
+    ]
+  },
+  {
+    "match_id": "JP1_592575046",
+    "date": "2026-07-13T23:42:44.608000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Ahri",
+    "opponent": "Sylas",
+    "win": false,
+    "kills": 3,
+    "deaths": 4,
+    "assists": 4,
+    "cs_per_min": 6.8,
+    "damage_share": 17.1,
+    "gold_efficiency": 1252,
+    "gd15": -1039,
+    "csd15": -13,
+    "game_duration_min": 26,
+    "damage_per_min": 442,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 2,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Briar"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 3,
+        "killer_champion": "Briar",
+        "assist_champions": [
+          "Sylas"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Sylas",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Sylas",
+        "assist_champions": [
+          "Morgana"
+        ],
+        "cause": "レーンキル"
+      }
+    ]
   }
 ]
