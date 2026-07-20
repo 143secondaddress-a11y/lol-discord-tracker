@@ -249,5 +249,72 @@
         "cause": "ガンク"
       }
     ]
+  },
+  {
+    "match_id": "JP1_593529955",
+    "date": "2026-07-20T01:10:14.920000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Vex",
+    "opponent": "Yone",
+    "win": true,
+    "kills": 6,
+    "deaths": 0,
+    "assists": 17,
+    "cs_per_min": 7.0,
+    "damage_share": 28.8,
+    "gold_efficiency": 3548,
+    "gd15": -164,
+    "csd15": -8,
+    "game_duration_min": 36,
+    "damage_per_min": 1388,
+    "solo_kills": 2,
+    "first_blood": false,
+    "deaths_detail": []
+  },
+  {
+    "match_id": "JP1_593539810",
+    "date": "2026-07-20T01:56:27.765000+09:00",
+    "lane": "MIDDLE",
+    "champion": "Viktor",
+    "opponent": "Zed",
+    "win": true,
+    "kills": 5,
+    "deaths": 4,
+    "assists": 13,
+    "cs_per_min": 5.5,
+    "damage_share": 18.1,
+    "gold_efficiency": 2169,
+    "gd15": -1921,
+    "csd15": -53,
+    "game_duration_min": 41,
+    "damage_per_min": 729,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 6,
+        "killer_champion": "Zed",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 13,
+        "killer_champion": "Zed",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 15,
+        "killer_champion": "Zed",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      },
+      {
+        "time_min": 29,
+        "killer_champion": "Zed",
+        "assist_champions": [],
+        "cause": "レーンキル"
+      }
+    ]
   }
 ]
