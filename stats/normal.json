@@ -11504,5 +11504,56 @@
         "cause": "ガンク"
       }
     ]
+  },
+  {
+    "match_id": "JP1_593680139",
+    "date": "2026-07-20T22:43:30.969000+09:00",
+    "lane": "BOTTOM",
+    "champion": "Seraphine",
+    "opponent": "Sion",
+    "win": true,
+    "kills": 14,
+    "deaths": 4,
+    "assists": 16,
+    "cs_per_min": 6.5,
+    "damage_share": 33.1,
+    "gold_efficiency": 3289,
+    "gd15": 1169,
+    "csd15": 6,
+    "game_duration_min": 28,
+    "damage_per_min": 1706,
+    "solo_kills": 0,
+    "first_blood": false,
+    "deaths_detail": [
+      {
+        "time_min": 12,
+        "killer_champion": "Udyr",
+        "assist_champions": [
+          "Senna"
+        ],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 14,
+        "killer_champion": "Udyr",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 17,
+        "killer_champion": "Udyr",
+        "assist_champions": [],
+        "cause": "ガンク"
+      },
+      {
+        "time_min": 20,
+        "killer_champion": "Udyr",
+        "assist_champions": [
+          "Sion",
+          "Senna"
+        ],
+        "cause": "ガンク"
+      }
+    ]
   }
 ]
